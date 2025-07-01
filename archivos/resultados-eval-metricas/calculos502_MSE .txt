@@ -1,0 +1,2012 @@
+["['01']_output.png", "['02']_output.png", "['03']_output.png", "['04']_output.png", "['05']_output.png", "['06']_output.png", "['07']_output.png", "['08']_output.png", "['09']_output.png", "['10']_output.png", "['100']_output.png", "['101']_output.png", "['102']_output.png", "['103']_output.png", "['104']_output.png", "['105']_output.png", "['106']_output.png", "['107']_output.png", "['108']_output.png", "['109']_output.png", "['11']_output.png", "['110']_output.png", "['111']_output.png", "['112']_output.png", "['113']_output.png", "['114']_output.png", "['115']_output.png", "['116']_output.png", "['117']_output.png", "['118']_output.png", "['119']_output.png", "['12']_output.png", "['120']_output.png", "['121']_output.png", "['122']_output.png", "['123']_output.png", "['124']_output.png", "['125']_output.png", "['126']_output.png", "['127']_output.png", "['128']_output.png", "['129']_output.png", "['13']_output.png", "['130']_output.png", "['131']_output.png", "['132']_output.png", "['133']_output.png", "['134']_output.png", "['135']_output.png", "['136']_output.png", "['137']_output.png", "['138']_output.png", "['139']_output.png", "['14']_output.png", "['140']_output.png", "['141']_output.png", "['142']_output.png", "['143']_output.png", "['144']_output.png", "['145']_output.png", "['146']_output.png", "['147']_output.png", "['148']_output.png", "['149']_output.png", "['15']_output.png", "['150']_output.png", "['151']_output.png", "['152']_output.png", "['153']_output.png", "['154']_output.png", "['155']_output.png", "['156']_output.png", "['157']_output.png", "['158']_output.png", "['159']_output.png", "['16']_output.png", "['160']_output.png", "['161']_output.png", "['162']_output.png", "['163']_output.png", "['164']_output.png", "['165']_output.png", "['166']_output.png", "['167']_output.png", "['168']_output.png", "['169']_output.png", "['17']_output.png", "['170']_output.png", "['171']_output.png", "['172']_output.png", "['173']_output.png", "['174']_output.png", "['175']_output.png", "['176']_output.png", "['177']_output.png", "['178']_output.png", "['179']_output.png", "['18']_output.png", "['180']_output.png", "['181']_output.png", "['182']_output.png", "['183']_output.png", "['184']_output.png", "['185']_output.png", "['186']_output.png", "['187']_output.png", "['188']_output.png", "['189']_output.png", "['19']_output.png", "['190']_output.png", "['191']_output.png", "['192']_output.png", "['193']_output.png", "['194']_output.png", "['195']_output.png", "['196']_output.png", "['197']_output.png", "['198']_output.png", "['199']_output.png", "['20']_output.png", "['200']_output.png", "['201']_output.png", "['202']_output.png", "['203']_output.png", "['204']_output.png", "['205']_output.png", "['206']_output.png", "['207']_output.png", "['208']_output.png", "['209']_output.png", "['21']_output.png", "['210']_output.png", "['211']_output.png", "['212']_output.png", "['213']_output.png", "['214']_output.png", "['215']_output.png", "['216']_output.png", "['217']_output.png", "['218']_output.png", "['219']_output.png", "['22']_output.png", "['220']_output.png", "['221']_output.png", "['222']_output.png", "['223']_output.png", "['224']_output.png", "['225']_output.png", "['226']_output.png", "['227']_output.png", "['228']_output.png", "['229']_output.png", "['23']_output.png", "['230']_output.png", "['231']_output.png", "['232']_output.png", "['233']_output.png", "['234']_output.png", "['235']_output.png", "['236']_output.png", "['237']_output.png", "['238']_output.png", "['239']_output.png", "['24']_output.png", "['240']_output.png", "['241']_output.png", "['242']_output.png", "['243']_output.png", "['244']_output.png", "['245']_output.png", "['246']_output.png", "['247']_output.png", "['248']_output.png", "['249']_output.png", "['25']_output.png", "['250']_output.png", "['251']_output.png", "['252']_output.png", "['253']_output.png", "['254']_output.png", "['255']_output.png", "['256']_output.png", "['257']_output.png", "['258']_output.png", "['259']_output.png", "['26']_output.png", "['260']_output.png", "['261']_output.png", "['262']_output.png", "['263']_output.png", "['264']_output.png", "['265']_output.png", "['266']_output.png", "['267']_output.png", "['268']_output.png", "['269']_output.png", "['27']_output.png", "['270']_output.png", "['271']_output.png", "['272']_output.png", "['273']_output.png", "['274']_output.png", "['275']_output.png", "['276']_output.png", "['277']_output.png", "['278']_output.png", "['279']_output.png", "['28']_output.png", "['280']_output.png", "['281']_output.png", "['282']_output.png", "['283']_output.png", "['284']_output.png", "['285']_output.png", "['286']_output.png", "['287']_output.png", "['288']_output.png", "['289']_output.png", "['29']_output.png", "['290']_output.png", "['291']_output.png", "['292']_output.png", "['293']_output.png", "['294']_output.png", "['295']_output.png", "['296']_output.png", "['297']_output.png", "['298']_output.png", "['299']_output.png", "['30']_output.png", "['300']_output.png", "['301']_output.png", "['302']_output.png", "['303']_output.png", "['304']_output.png", "['305']_output.png", "['306']_output.png", "['307']_output.png", "['308']_output.png", "['309']_output.png", "['31']_output.png", "['310']_output.png", "['311']_output.png", "['312']_output.png", "['313']_output.png", "['314']_output.png", "['315']_output.png", "['316']_output.png", "['317']_output.png", "['318']_output.png", "['319']_output.png", "['32']_output.png", "['320']_output.png", "['321']_output.png", "['322']_output.png", "['323']_output.png", "['324']_output.png", "['325']_output.png", "['326']_output.png", "['327']_output.png", "['328']_output.png", "['329']_output.png", "['33']_output.png", "['330']_output.png", "['331']_output.png", "['332']_output.png", "['333']_output.png", "['334']_output.png", "['335']_output.png", "['336']_output.png", "['337']_output.png", "['338']_output.png", "['339']_output.png", "['34']_output.png", "['340']_output.png", "['341']_output.png", "['342']_output.png", "['343']_output.png", "['344']_output.png", "['345']_output.png", "['346']_output.png", "['347']_output.png", "['348']_output.png", "['349']_output.png", "['35']_output.png", "['350']_output.png", "['351']_output.png", "['352']_output.png", "['353']_output.png", "['354']_output.png", "['355']_output.png", "['356']_output.png", "['357']_output.png", "['358']_output.png", "['359']_output.png", "['36']_output.png", "['360']_output.png", "['361']_output.png", "['362']_output.png", "['363']_output.png", "['364']_output.png", "['365']_output.png", "['366']_output.png", "['367']_output.png", "['368']_output.png", "['369']_output.png", "['37']_output.png", "['370']_output.png", "['371']_output.png", "['372']_output.png", "['373']_output.png", "['374']_output.png", "['375']_output.png", "['376']_output.png", "['377']_output.png", "['378']_output.png", "['379']_output.png", "['38']_output.png", "['380']_output.png", "['381']_output.png", "['382']_output.png", "['383']_output.png", "['384']_output.png", "['385']_output.png", "['386']_output.png", "['387']_output.png", "['388']_output.png", "['389']_output.png", "['39']_output.png", "['390']_output.png", "['391']_output.png", "['392']_output.png", "['393']_output.png", "['394']_output.png", "['395']_output.png", "['396']_output.png", "['397']_output.png", "['398']_output.png", "['399']_output.png", "['40']_output.png", "['400']_output.png", "['401']_output.png", "['402']_output.png", "['403']_output.png", "['404']_output.png", "['405']_output.png", "['406']_output.png", "['407']_output.png", "['408']_output.png", "['409']_output.png", "['41']_output.png", "['410']_output.png", "['411']_output.png", "['412']_output.png", "['413']_output.png", "['414']_output.png", "['415']_output.png", "['416']_output.png", "['417']_output.png", "['418']_output.png", "['419']_output.png", "['42']_output.png", "['420']_output.png", "['421']_output.png", "['422']_output.png", "['423']_output.png", "['424']_output.png", "['425']_output.png", "['426']_output.png", "['427']_output.png", "['428']_output.png", "['429']_output.png", "['43']_output.png", "['430']_output.png", "['431']_output.png", "['432']_output.png", "['433']_output.png", "['434']_output.png", "['435']_output.png", "['436']_output.png", "['437']_output.png", "['438']_output.png", "['439']_output.png", "['44']_output.png", "['440']_output.png", "['441']_output.png", "['442']_output.png", "['443']_output.png", "['444']_output.png", "['445']_output.png", "['446']_output.png", "['447']_output.png", "['448']_output.png", "['449']_output.png", "['45']_output.png", "['450']_output.png", "['451']_output.png", "['452']_output.png", "['453']_output.png", "['454']_output.png", "['455']_output.png", "['456']_output.png", "['457']_output.png", "['458']_output.png", "['459']_output.png", "['46']_output.png", "['460']_output.png", "['461']_output.png", "['462']_output.png", "['463']_output.png", "['464']_output.png", "['465']_output.png", "['466']_output.png", "['467']_output.png", "['468']_output.png", "['469']_output.png", "['47']_output.png", "['470']_output.png", "['471']_output.png", "['472']_output.png", "['473']_output.png", "['474']_output.png", "['475']_output.png", "['476']_output.png", "['477']_output.png", "['478']_output.png", "['479']_output.png", "['48']_output.png", "['480']_output.png", "['481']_output.png", "['482']_output.png", "['483']_output.png", "['484']_output.png", "['485']_output.png", "['486']_output.png", "['487']_output.png", "['488']_output.png", "['489']_output.png", "['49']_output.png", "['490']_output.png", "['491']_output.png", "['492']_output.png", "['493']_output.png", "['494']_output.png", "['495']_output.png", "['496']_output.png", "['497']_output.png", "['498']_output.png", "['499']_output.png", "['50']_output.png", "['500']_output.png", "['501']_output.png", "['502']_output.png", "['503']_output.png", "['51']_output.png", "['52']_output.png", "['53']_output.png", "['54']_output.png", "['55']_output.png", "['56']_output.png", "['57']_output.png", "['58']_output.png", "['59']_output.png", "['60']_output.png", "['61']_output.png", "['62']_output.png", "['63']_output.png", "['64']_output.png", "['65']_output.png", "['66']_output.png", "['67']_output.png", "['68']_output.png", "['69']_output.png", "['70']_output.png", "['71']_output.png", "['72']_output.png", "['73']_output.png", "['74']_output.png", "['75']_output.png", "['76']_output.png", "['77']_output.png", "['78']_output.png", "['79']_output.png", "['80']_output.png", "['81']_output.png", "['82']_output.png", "['83']_output.png", "['84']_output.png", "['85']_output.png", "['86']_output.png", "['87']_output.png", "['88']_output.png", "['89']_output.png", "['90']_output.png", "['91']_output.png", "['92']_output.png", "['93']_output.png", "['94']_output.png", "['95']_output.png", "['96']_output.png", "['97']_output.png", "['98']_output.png", "['99']_output.png"]
+['01.png', '02.png', '03.png', '04.png', '05.png', '06.png', '07.png', '08.png', '09.png', '10.png', '100.png', '101.png', '102.png', '103.png', '104.png', '105.png', '106.png', '107.png', '108.png', '109.png', '11.png', '110.png', '111.png', '112.png', '113.png', '114.png', '115.png', '116.png', '117.png', '118.png', '119.png', '12.png', '120.png', '121.png', '122.png', '123.png', '124.png', '125.png', '126.png', '127.png', '128.png', '129.png', '13.png', '130.png', '131.png', '132.png', '133.png', '134.png', '135.png', '136.png', '137.png', '138.png', '139.png', '14.png', '140.png', '141.png', '142.png', '143.png', '144.png', '145.png', '146.png', '147.png', '148.png', '149.png', '15.png', '150.png', '151.png', '152.png', '153.png', '154.png', '155.png', '156.png', '157.png', '158.png', '159.png', '16.png', '160.png', '161.png', '162.png', '163.png', '164.png', '165.png', '166.png', '167.png', '168.png', '169.png', '17.png', '170.png', '171.png', '172.png', '173.png', '174.png', '175.png', '176.png', '177.png', '178.png', '179.png', '18.png', '180.png', '181.png', '182.png', '183.png', '184.png', '185.png', '186.png', '187.png', '188.png', '189.png', '19.png', '190.png', '191.png', '192.png', '193.png', '194.png', '195.png', '196.png', '197.png', '198.png', '199.png', '20.png', '200.png', '201.png', '202.png', '203.png', '204.png', '205.png', '206.png', '207.png', '208.png', '209.png', '21.png', '210.png', '211.png', '212.png', '213.png', '214.png', '215.png', '216.png', '217.png', '218.png', '219.png', '22.png', '220.png', '221.png', '222.png', '223.png', '224.png', '225.png', '226.png', '227.png', '228.png', '229.png', '23.png', '230.png', '231.png', '232.png', '233.png', '234.png', '235.png', '236.png', '237.png', '238.png', '239.png', '24.png', '240.png', '241.png', '242.png', '243.png', '244.png', '245.png', '246.png', '247.png', '248.png', '249.png', '25.png', '250.png', '251.png', '252.png', '253.png', '254.png', '255.png', '256.png', '257.png', '258.png', '259.png', '26.png', '260.png', '261.png', '262.png', '263.png', '264.png', '265.png', '266.png', '267.png', '268.png', '269.png', '27.png', '270.png', '271.png', '272.png', '273.png', '274.png', '275.png', '276.png', '277.png', '278.png', '279.png', '28.png', '280.png', '281.png', '282.png', '283.png', '284.png', '285.png', '286.png', '287.png', '288.png', '289.png', '29.png', '290.png', '291.png', '292.png', '293.png', '294.png', '295.png', '296.png', '297.png', '298.png', '299.png', '30.png', '300.png', '301.png', '302.png', '303.png', '304.png', '305.png', '306.png', '307.png', '308.png', '309.png', '31.png', '310.png', '311.png', '312.png', '313.png', '314.png', '315.png', '316.png', '317.png', '318.png', '319.png', '32.png', '320.png', '321.png', '322.png', '323.png', '324.png', '325.png', '326.png', '327.png', '328.png', '329.png', '33.png', '330.png', '331.png', '332.png', '333.png', '334.png', '335.png', '336.png', '337.png', '338.png', '339.png', '34.png', '340.png', '341.png', '342.png', '343.png', '344.png', '345.png', '346.png', '347.png', '348.png', '349.png', '35.png', '350.png', '351.png', '352.png', '353.png', '354.png', '355.png', '356.png', '357.png', '358.png', '359.png', '36.png', '360.png', '361.png', '362.png', '363.png', '364.png', '365.png', '366.png', '367.png', '368.png', '369.png', '37.png', '370.png', '371.png', '372.png', '373.png', '374.png', '375.png', '376.png', '377.png', '378.png', '379.png', '38.png', '380.png', '381.png', '382.png', '383.png', '384.png', '385.png', '386.png', '387.png', '388.png', '389.png', '39.png', '390.png', '391.png', '392.png', '393.png', '394.png', '395.png', '396.png', '397.png', '398.png', '399.png', '40.png', '400.png', '401.png', '402.png', '403.png', '404.png', '405.png', '406.png', '407.png', '408.png', '409.png', '41.png', '410.png', '411.png', '412.png', '413.png', '414.png', '415.png', '416.png', '417.png', '418.png', '419.png', '42.png', '420.png', '421.png', '422.png', '423.png', '424.png', '425.png', '426.png', '427.png', '428.png', '429.png', '43.png', '430.png', '431.png', '432.png', '433.png', '434.png', '435.png', '436.png', '437.png', '438.png', '439.png', '44.png', '440.png', '441.png', '442.png', '443.png', '444.png', '445.png', '446.png', '447.png', '448.png', '449.png', '45.png', '450.png', '451.png', '452.png', '453.png', '454.png', '455.png', '456.png', '457.png', '458.png', '459.png', '46.png', '460.png', '461.png', '462.png', '463.png', '464.png', '465.png', '466.png', '467.png', '468.png', '469.png', '47.png', '470.png', '471.png', '472.png', '473.png', '474.png', '475.png', '476.png', '477.png', '478.png', '479.png', '48.png', '480.png', '481.png', '482.png', '483.png', '484.png', '485.png', '486.png', '487.png', '488.png', '489.png', '49.png', '490.png', '491.png', '492.png', '493.png', '494.png', '495.png', '496.png', '497.png', '498.png', '499.png', '50.png', '500.png', '501.png', '502.png', '503.png', '51.png', '52.png', '53.png', '54.png', '55.png', '56.png', '57.png', '58.png', '59.png', '60.png', '61.png', '62.png', '63.png', '64.png', '65.png', '66.png', '67.png', '68.png', '69.png', '70.png', '71.png', '72.png', '73.png', '74.png', '75.png', '76.png', '77.png', '78.png', '79.png', '80.png', '81.png', '82.png', '83.png', '84.png', '85.png', '86.png', '87.png', '88.png', '89.png', '90.png', '91.png', '92.png', '93.png', '94.png', '95.png', '96.png', '97.png', '98.png', '99.png']
+Processing image: ['02']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['02']_output.png
+Resizing ['02']_output.png ((1040, 176, 3)) to match 02.png ((1025, 165, 3))
+PSNR is 26.9183 and SSIM is 0.8036
+Processing image: ['03']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['03']_output.png
+Resizing ['03']_output.png ((1040, 176, 3)) to match 03.png ((1025, 165, 3))
+PSNR is 27.2330 and SSIM is 0.7888
+Processing image: ['04']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['04']_output.png
+Resizing ['04']_output.png ((1040, 176, 3)) to match 04.png ((1025, 165, 3))
+PSNR is 26.6340 and SSIM is 0.7647
+Processing image: ['05']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['05']_output.png
+Resizing ['05']_output.png ((1040, 176, 3)) to match 05.png ((1025, 165, 3))
+PSNR is 27.1843 and SSIM is 0.8044
+Processing image: ['06']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['06']_output.png
+Resizing ['06']_output.png ((1040, 176, 3)) to match 06.png ((1025, 165, 3))
+PSNR is 26.3756 and SSIM is 0.7740
+Processing image: ['07']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['07']_output.png
+Resizing ['07']_output.png ((1040, 176, 3)) to match 07.png ((1025, 165, 3))
+PSNR is 27.0716 and SSIM is 0.7780
+Processing image: ['08']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['08']_output.png
+Resizing ['08']_output.png ((1040, 176, 3)) to match 08.png ((1025, 165, 3))
+PSNR is 26.9176 and SSIM is 0.7977
+Processing image: ['09']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['09']_output.png
+Resizing ['09']_output.png ((1040, 176, 3)) to match 09.png ((1025, 165, 3))
+PSNR is 26.6417 and SSIM is 0.7953
+Processing image: ['10']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['10']_output.png
+Resizing ['10']_output.png ((1040, 176, 3)) to match 10.png ((1025, 165, 3))
+PSNR is 26.5720 and SSIM is 0.7696
+Processing image: ['100']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['100']_output.png
+Resizing ['100']_output.png ((1040, 176, 3)) to match 100.png ((1025, 165, 3))
+PSNR is 28.9189 and SSIM is 0.8478
+Processing image: ['101']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['101']_output.png
+Resizing ['101']_output.png ((1040, 176, 3)) to match 101.png ((1025, 165, 3))
+PSNR is 26.8036 and SSIM is 0.8488
+Processing image: ['102']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['102']_output.png
+Resizing ['102']_output.png ((1040, 176, 3)) to match 102.png ((1025, 165, 3))
+PSNR is 27.7410 and SSIM is 0.8094
+Processing image: ['103']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['103']_output.png
+Resizing ['103']_output.png ((1040, 176, 3)) to match 103.png ((1025, 165, 3))
+PSNR is 27.0918 and SSIM is 0.7713
+Processing image: ['104']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['104']_output.png
+Resizing ['104']_output.png ((1040, 176, 3)) to match 104.png ((1025, 165, 3))
+PSNR is 26.0262 and SSIM is 0.4769
+Processing image: ['105']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['105']_output.png
+Resizing ['105']_output.png ((1040, 176, 3)) to match 105.png ((1025, 165, 3))
+PSNR is 26.3794 and SSIM is 0.4915
+Processing image: ['106']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['106']_output.png
+Resizing ['106']_output.png ((1040, 176, 3)) to match 106.png ((1025, 165, 3))
+PSNR is 30.4535 and SSIM is 0.8784
+Processing image: ['107']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['107']_output.png
+Resizing ['107']_output.png ((1040, 176, 3)) to match 107.png ((1025, 165, 3))
+PSNR is 28.8419 and SSIM is 0.8602
+Processing image: ['108']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['108']_output.png
+Resizing ['108']_output.png ((1040, 176, 3)) to match 108.png ((1025, 165, 3))
+PSNR is 30.0767 and SSIM is 0.8798
+Processing image: ['109']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['109']_output.png
+Resizing ['109']_output.png ((1040, 176, 3)) to match 109.png ((1025, 165, 3))
+PSNR is 29.8962 and SSIM is 0.8643
+Processing image: ['11']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['11']_output.png
+Resizing ['11']_output.png ((1040, 176, 3)) to match 11.png ((1025, 165, 3))
+PSNR is 26.3973 and SSIM is 0.8024
+Processing image: ['110']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['110']_output.png
+Resizing ['110']_output.png ((1040, 176, 3)) to match 110.png ((1025, 165, 3))
+PSNR is 30.1683 and SSIM is 0.8724
+Processing image: ['111']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['111']_output.png
+Resizing ['111']_output.png ((1040, 176, 3)) to match 111.png ((1025, 165, 3))
+PSNR is 27.9710 and SSIM is 0.8664
+Processing image: ['112']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['112']_output.png
+Resizing ['112']_output.png ((1040, 176, 3)) to match 112.png ((1025, 165, 3))
+PSNR is 26.2043 and SSIM is 0.8263
+Processing image: ['113']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['113']_output.png
+Resizing ['113']_output.png ((1040, 176, 3)) to match 113.png ((1025, 165, 3))
+PSNR is 29.5338 and SSIM is 0.8481
+Processing image: ['114']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['114']_output.png
+Resizing ['114']_output.png ((1040, 176, 3)) to match 114.png ((1025, 165, 3))
+PSNR is 29.3801 and SSIM is 0.8655
+Processing image: ['115']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['115']_output.png
+Resizing ['115']_output.png ((1040, 176, 3)) to match 115.png ((1025, 165, 3))
+PSNR is 30.3805 and SSIM is 0.8723
+Processing image: ['116']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['116']_output.png
+Resizing ['116']_output.png ((1040, 176, 3)) to match 116.png ((1025, 165, 3))
+PSNR is 27.1272 and SSIM is 0.7942
+Processing image: ['117']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['117']_output.png
+Resizing ['117']_output.png ((1040, 176, 3)) to match 117.png ((1025, 165, 3))
+PSNR is 22.1951 and SSIM is 0.6270
+Processing image: ['118']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['118']_output.png
+Resizing ['118']_output.png ((1040, 176, 3)) to match 118.png ((1025, 165, 3))
+PSNR is 26.5213 and SSIM is 0.7753
+Processing image: ['119']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['119']_output.png
+Resizing ['119']_output.png ((1040, 176, 3)) to match 119.png ((1025, 165, 3))
+PSNR is 27.6413 and SSIM is 0.7902
+Processing image: ['12']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['12']_output.png
+Resizing ['12']_output.png ((1040, 176, 3)) to match 12.png ((1025, 165, 3))
+PSNR is 26.3206 and SSIM is 0.7594
+Processing image: ['120']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['120']_output.png
+Resizing ['120']_output.png ((1040, 176, 3)) to match 120.png ((1025, 165, 3))
+PSNR is 26.1572 and SSIM is 0.7656
+Processing image: ['121']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['121']_output.png
+Resizing ['121']_output.png ((1040, 176, 3)) to match 121.png ((1025, 165, 3))
+PSNR is 26.3802 and SSIM is 0.7689
+Processing image: ['122']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['122']_output.png
+Resizing ['122']_output.png ((1040, 176, 3)) to match 122.png ((1025, 165, 3))
+PSNR is 27.3210 and SSIM is 0.7888
+Processing image: ['123']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['123']_output.png
+Resizing ['123']_output.png ((1040, 176, 3)) to match 123.png ((1025, 165, 3))
+PSNR is 25.8556 and SSIM is 0.7531
+Processing image: ['124']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['124']_output.png
+Resizing ['124']_output.png ((1040, 176, 3)) to match 124.png ((1025, 165, 3))
+PSNR is 26.3973 and SSIM is 0.7658
+Processing image: ['125']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['125']_output.png
+Resizing ['125']_output.png ((1040, 176, 3)) to match 125.png ((1025, 165, 3))
+PSNR is 27.2899 and SSIM is 0.7866
+Processing image: ['126']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['126']_output.png
+Resizing ['126']_output.png ((1040, 176, 3)) to match 126.png ((1025, 165, 3))
+PSNR is 27.0380 and SSIM is 0.7845
+Processing image: ['127']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['127']_output.png
+Resizing ['127']_output.png ((1040, 176, 3)) to match 127.png ((1025, 165, 3))
+PSNR is 27.9580 and SSIM is 0.8529
+Processing image: ['128']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['128']_output.png
+Resizing ['128']_output.png ((1040, 176, 3)) to match 128.png ((1025, 165, 3))
+PSNR is 30.2931 and SSIM is 0.8769
+Processing image: ['129']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['129']_output.png
+Resizing ['129']_output.png ((1040, 176, 3)) to match 129.png ((1025, 165, 3))
+PSNR is 29.9450 and SSIM is 0.8867
+Processing image: ['13']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['13']_output.png
+Resizing ['13']_output.png ((1040, 176, 3)) to match 13.png ((1025, 165, 3))
+PSNR is 28.5090 and SSIM is 0.8256
+Processing image: ['130']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['130']_output.png
+Resizing ['130']_output.png ((1040, 176, 3)) to match 130.png ((1025, 165, 3))
+PSNR is 28.9905 and SSIM is 0.8471
+Processing image: ['131']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['131']_output.png
+Resizing ['131']_output.png ((1040, 176, 3)) to match 131.png ((1025, 165, 3))
+PSNR is 27.4827 and SSIM is 0.8090
+Processing image: ['132']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['132']_output.png
+Resizing ['132']_output.png ((1040, 176, 3)) to match 132.png ((1025, 165, 3))
+PSNR is 26.7296 and SSIM is 0.8179
+Processing image: ['133']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['133']_output.png
+Resizing ['133']_output.png ((1040, 176, 3)) to match 133.png ((1025, 165, 3))
+PSNR is 24.8252 and SSIM is 0.7845
+Processing image: ['134']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['134']_output.png
+Resizing ['134']_output.png ((1040, 176, 3)) to match 134.png ((1025, 165, 3))
+PSNR is 26.3257 and SSIM is 0.8280
+Processing image: ['135']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['135']_output.png
+Resizing ['135']_output.png ((1040, 176, 3)) to match 135.png ((1025, 165, 3))
+PSNR is 28.2823 and SSIM is 0.8535
+Processing image: ['136']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['136']_output.png
+Resizing ['136']_output.png ((1040, 176, 3)) to match 136.png ((1025, 165, 3))
+PSNR is 28.3247 and SSIM is 0.8572
+Processing image: ['137']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['137']_output.png
+Resizing ['137']_output.png ((1040, 176, 3)) to match 137.png ((1025, 165, 3))
+PSNR is 27.2540 and SSIM is 0.8377
+Processing image: ['138']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['138']_output.png
+Resizing ['138']_output.png ((1040, 176, 3)) to match 138.png ((1025, 165, 3))
+PSNR is 28.9187 and SSIM is 0.8608
+Processing image: ['139']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['139']_output.png
+Resizing ['139']_output.png ((1040, 176, 3)) to match 139.png ((1025, 165, 3))
+PSNR is 26.7573 and SSIM is 0.8520
+Processing image: ['14']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['14']_output.png
+Resizing ['14']_output.png ((1040, 176, 3)) to match 14.png ((1025, 165, 3))
+PSNR is 24.4425 and SSIM is 0.7833
+Processing image: ['140']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['140']_output.png
+Resizing ['140']_output.png ((1040, 176, 3)) to match 140.png ((1025, 165, 3))
+PSNR is 26.0038 and SSIM is 0.7836
+Processing image: ['141']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['141']_output.png
+Resizing ['141']_output.png ((1040, 176, 3)) to match 141.png ((1025, 165, 3))
+PSNR is 26.7199 and SSIM is 0.7874
+Processing image: ['142']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['142']_output.png
+Resizing ['142']_output.png ((1040, 176, 3)) to match 142.png ((1025, 165, 3))
+PSNR is 25.8191 and SSIM is 0.7379
+Processing image: ['143']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['143']_output.png
+Resizing ['143']_output.png ((1040, 176, 3)) to match 143.png ((1025, 165, 3))
+PSNR is 22.7240 and SSIM is 0.7316
+Processing image: ['144']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['144']_output.png
+Resizing ['144']_output.png ((1040, 176, 3)) to match 144.png ((1025, 165, 3))
+PSNR is 26.3858 and SSIM is 0.7629
+Processing image: ['145']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['145']_output.png
+Resizing ['145']_output.png ((1040, 176, 3)) to match 145.png ((1025, 165, 3))
+PSNR is 25.0456 and SSIM is 0.7479
+Processing image: ['146']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['146']_output.png
+Resizing ['146']_output.png ((1040, 176, 3)) to match 146.png ((1025, 165, 3))
+PSNR is 26.0523 and SSIM is 0.7455
+Processing image: ['147']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['147']_output.png
+Resizing ['147']_output.png ((1040, 176, 3)) to match 147.png ((1025, 165, 3))
+PSNR is 26.4418 and SSIM is 0.7634
+Processing image: ['148']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['148']_output.png
+Resizing ['148']_output.png ((1040, 176, 3)) to match 148.png ((1025, 165, 3))
+PSNR is 25.3886 and SSIM is 0.7248
+Processing image: ['149']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['149']_output.png
+Resizing ['149']_output.png ((1040, 176, 3)) to match 149.png ((1025, 165, 3))
+PSNR is 25.3147 and SSIM is 0.7191
+Processing image: ['15']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['15']_output.png
+Resizing ['15']_output.png ((1040, 176, 3)) to match 15.png ((1025, 165, 3))
+PSNR is 27.6726 and SSIM is 0.8384
+Processing image: ['150']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['150']_output.png
+Resizing ['150']_output.png ((1040, 176, 3)) to match 150.png ((1025, 165, 3))
+PSNR is 26.7179 and SSIM is 0.7597
+Processing image: ['151']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['151']_output.png
+Resizing ['151']_output.png ((1040, 176, 3)) to match 151.png ((1025, 165, 3))
+PSNR is 25.8319 and SSIM is 0.7638
+Processing image: ['152']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['152']_output.png
+Resizing ['152']_output.png ((1040, 176, 3)) to match 152.png ((1025, 165, 3))
+PSNR is 26.0760 and SSIM is 0.8007
+Processing image: ['153']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['153']_output.png
+Resizing ['153']_output.png ((1040, 176, 3)) to match 153.png ((1025, 165, 3))
+PSNR is 24.4171 and SSIM is 0.6978
+Processing image: ['154']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['154']_output.png
+Resizing ['154']_output.png ((1040, 176, 3)) to match 154.png ((1025, 165, 3))
+PSNR is 25.8931 and SSIM is 0.7593
+Processing image: ['155']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['155']_output.png
+Resizing ['155']_output.png ((1040, 176, 3)) to match 155.png ((1025, 165, 3))
+PSNR is 26.6245 and SSIM is 0.7653
+Processing image: ['156']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['156']_output.png
+Resizing ['156']_output.png ((1040, 176, 3)) to match 156.png ((1025, 165, 3))
+PSNR is 26.5747 and SSIM is 0.7706
+Processing image: ['157']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['157']_output.png
+Resizing ['157']_output.png ((1040, 176, 3)) to match 157.png ((1025, 165, 3))
+PSNR is 26.7569 and SSIM is 0.7640
+Processing image: ['158']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['158']_output.png
+Resizing ['158']_output.png ((1040, 176, 3)) to match 158.png ((1025, 165, 3))
+PSNR is 26.7919 and SSIM is 0.7762
+Processing image: ['159']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['159']_output.png
+Resizing ['159']_output.png ((1040, 176, 3)) to match 159.png ((1025, 165, 3))
+PSNR is 25.7627 and SSIM is 0.7568
+Processing image: ['16']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['16']_output.png
+Resizing ['16']_output.png ((1040, 176, 3)) to match 16.png ((1025, 165, 3))
+PSNR is 27.4426 and SSIM is 0.8309
+Processing image: ['160']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['160']_output.png
+Resizing ['160']_output.png ((1040, 176, 3)) to match 160.png ((1025, 165, 3))
+PSNR is 26.0663 and SSIM is 0.7491
+Processing image: ['161']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['161']_output.png
+Resizing ['161']_output.png ((1040, 176, 3)) to match 161.png ((1025, 165, 3))
+PSNR is 27.5363 and SSIM is 0.8165
+Processing image: ['162']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['162']_output.png
+Resizing ['162']_output.png ((1040, 176, 3)) to match 162.png ((1025, 165, 3))
+PSNR is 27.5099 and SSIM is 0.8377
+Processing image: ['163']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['163']_output.png
+Resizing ['163']_output.png ((1040, 176, 3)) to match 163.png ((1025, 165, 3))
+PSNR is 29.2429 and SSIM is 0.8568
+Processing image: ['164']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['164']_output.png
+Resizing ['164']_output.png ((1040, 176, 3)) to match 164.png ((1025, 165, 3))
+PSNR is 28.7698 and SSIM is 0.8490
+Processing image: ['165']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['165']_output.png
+Resizing ['165']_output.png ((1040, 176, 3)) to match 165.png ((1025, 165, 3))
+PSNR is 29.3664 and SSIM is 0.8703
+Processing image: ['166']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['166']_output.png
+Resizing ['166']_output.png ((1040, 176, 3)) to match 166.png ((1025, 165, 3))
+PSNR is 28.3917 and SSIM is 0.8443
+Processing image: ['167']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['167']_output.png
+Resizing ['167']_output.png ((1040, 176, 3)) to match 167.png ((1025, 165, 3))
+PSNR is 27.7633 and SSIM is 0.8312
+Processing image: ['168']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['168']_output.png
+Resizing ['168']_output.png ((1040, 176, 3)) to match 168.png ((1025, 165, 3))
+PSNR is 26.3290 and SSIM is 0.7986
+Processing image: ['169']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['169']_output.png
+Resizing ['169']_output.png ((1040, 176, 3)) to match 169.png ((1025, 165, 3))
+PSNR is 27.2078 and SSIM is 0.8261
+Processing image: ['17']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['17']_output.png
+Resizing ['17']_output.png ((1040, 176, 3)) to match 17.png ((1025, 165, 3))
+PSNR is 26.0378 and SSIM is 0.7915
+Processing image: ['170']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['170']_output.png
+Resizing ['170']_output.png ((1040, 176, 3)) to match 170.png ((1025, 165, 3))
+PSNR is 28.5929 and SSIM is 0.8577
+Processing image: ['171']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['171']_output.png
+Resizing ['171']_output.png ((1040, 176, 3)) to match 171.png ((1025, 165, 3))
+PSNR is 28.8469 and SSIM is 0.8616
+Processing image: ['172']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['172']_output.png
+Resizing ['172']_output.png ((1040, 176, 3)) to match 172.png ((1025, 165, 3))
+PSNR is 26.2750 and SSIM is 0.8324
+Processing image: ['173']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['173']_output.png
+Resizing ['173']_output.png ((1040, 176, 3)) to match 173.png ((1025, 165, 3))
+PSNR is 27.8254 and SSIM is 0.8427
+Processing image: ['174']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['174']_output.png
+Resizing ['174']_output.png ((1040, 176, 3)) to match 174.png ((1025, 165, 3))
+PSNR is 28.0307 and SSIM is 0.8402
+Processing image: ['175']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['175']_output.png
+Resizing ['175']_output.png ((1040, 176, 3)) to match 175.png ((1025, 165, 3))
+PSNR is 26.1919 and SSIM is 0.8342
+Processing image: ['176']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['176']_output.png
+Resizing ['176']_output.png ((1040, 176, 3)) to match 176.png ((1025, 165, 3))
+PSNR is 30.1385 and SSIM is 0.8713
+Processing image: ['177']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['177']_output.png
+Resizing ['177']_output.png ((1040, 176, 3)) to match 177.png ((1025, 165, 3))
+PSNR is 28.2104 and SSIM is 0.8437
+Processing image: ['178']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['178']_output.png
+Resizing ['178']_output.png ((1040, 176, 3)) to match 178.png ((1025, 165, 3))
+PSNR is 26.4671 and SSIM is 0.8173
+Processing image: ['179']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['179']_output.png
+Resizing ['179']_output.png ((1040, 176, 3)) to match 179.png ((1025, 165, 3))
+PSNR is 28.8212 and SSIM is 0.8424
+Processing image: ['18']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['18']_output.png
+Resizing ['18']_output.png ((1040, 176, 3)) to match 18.png ((1025, 165, 3))
+PSNR is 25.9324 and SSIM is 0.7865
+Processing image: ['180']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['180']_output.png
+Resizing ['180']_output.png ((1040, 176, 3)) to match 180.png ((1025, 165, 3))
+PSNR is 27.9456 and SSIM is 0.8306
+Processing image: ['181']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['181']_output.png
+Resizing ['181']_output.png ((1040, 176, 3)) to match 181.png ((1025, 165, 3))
+PSNR is 27.9153 and SSIM is 0.8363
+Processing image: ['182']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['182']_output.png
+Resizing ['182']_output.png ((1040, 176, 3)) to match 182.png ((1025, 165, 3))
+PSNR is 30.1842 and SSIM is 0.8580
+Processing image: ['183']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['183']_output.png
+Resizing ['183']_output.png ((1040, 176, 3)) to match 183.png ((1025, 165, 3))
+PSNR is 28.5972 and SSIM is 0.8477
+Processing image: ['184']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['184']_output.png
+Resizing ['184']_output.png ((1040, 176, 3)) to match 184.png ((1025, 165, 3))
+PSNR is 26.9802 and SSIM is 0.8189
+Processing image: ['185']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['185']_output.png
+Resizing ['185']_output.png ((1040, 176, 3)) to match 185.png ((1025, 165, 3))
+PSNR is 28.4296 and SSIM is 0.8345
+Processing image: ['186']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['186']_output.png
+Resizing ['186']_output.png ((1040, 176, 3)) to match 186.png ((1025, 165, 3))
+PSNR is 27.1148 and SSIM is 0.8263
+Processing image: ['187']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['187']_output.png
+Resizing ['187']_output.png ((1040, 176, 3)) to match 187.png ((1025, 165, 3))
+PSNR is 28.9015 and SSIM is 0.8686
+Processing image: ['188']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['188']_output.png
+Resizing ['188']_output.png ((1040, 176, 3)) to match 188.png ((1025, 165, 3))
+PSNR is 28.2534 and SSIM is 0.8553
+Processing image: ['189']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['189']_output.png
+Resizing ['189']_output.png ((1040, 176, 3)) to match 189.png ((1025, 165, 3))
+PSNR is 27.3777 and SSIM is 0.8279
+Processing image: ['19']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['19']_output.png
+Resizing ['19']_output.png ((1040, 176, 3)) to match 19.png ((1025, 165, 3))
+PSNR is 25.7274 and SSIM is 0.7981
+Processing image: ['190']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['190']_output.png
+Resizing ['190']_output.png ((1040, 176, 3)) to match 190.png ((1025, 165, 3))
+PSNR is 28.3315 and SSIM is 0.8432
+Processing image: ['191']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['191']_output.png
+Resizing ['191']_output.png ((1040, 176, 3)) to match 191.png ((1025, 165, 3))
+PSNR is 29.5074 and SSIM is 0.8537
+Processing image: ['192']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['192']_output.png
+Resizing ['192']_output.png ((1040, 176, 3)) to match 192.png ((1025, 165, 3))
+PSNR is 28.2922 and SSIM is 0.8382
+Processing image: ['193']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['193']_output.png
+Resizing ['193']_output.png ((1040, 176, 3)) to match 193.png ((1025, 165, 3))
+PSNR is 27.0228 and SSIM is 0.8264
+Processing image: ['194']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['194']_output.png
+Resizing ['194']_output.png ((1040, 176, 3)) to match 194.png ((1025, 165, 3))
+PSNR is 29.0295 and SSIM is 0.8664
+Processing image: ['195']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['195']_output.png
+Resizing ['195']_output.png ((1040, 176, 3)) to match 195.png ((1025, 165, 3))
+PSNR is 26.7644 and SSIM is 0.8227
+Processing image: ['196']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['196']_output.png
+Resizing ['196']_output.png ((1040, 176, 3)) to match 196.png ((1025, 165, 3))
+PSNR is 27.7517 and SSIM is 0.8267
+Processing image: ['197']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['197']_output.png
+Resizing ['197']_output.png ((1040, 176, 3)) to match 197.png ((1025, 165, 3))
+PSNR is 28.4254 and SSIM is 0.8427
+Processing image: ['198']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['198']_output.png
+Resizing ['198']_output.png ((1040, 176, 3)) to match 198.png ((1025, 165, 3))
+PSNR is 28.2971 and SSIM is 0.8658
+Processing image: ['199']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['199']_output.png
+Resizing ['199']_output.png ((1040, 176, 3)) to match 199.png ((1025, 165, 3))
+PSNR is 28.6246 and SSIM is 0.8636
+Processing image: ['20']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['20']_output.png
+Resizing ['20']_output.png ((1040, 176, 3)) to match 20.png ((1025, 165, 3))
+PSNR is 26.8055 and SSIM is 0.8034
+Processing image: ['200']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['200']_output.png
+Resizing ['200']_output.png ((1040, 176, 3)) to match 200.png ((1025, 165, 3))
+PSNR is 26.8517 and SSIM is 0.8054
+Processing image: ['201']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['201']_output.png
+Resizing ['201']_output.png ((1040, 176, 3)) to match 201.png ((1025, 165, 3))
+PSNR is 28.2634 and SSIM is 0.8478
+Processing image: ['202']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['202']_output.png
+Resizing ['202']_output.png ((1040, 176, 3)) to match 202.png ((1025, 165, 3))
+PSNR is 28.1804 and SSIM is 0.8182
+Processing image: ['203']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['203']_output.png
+Resizing ['203']_output.png ((1040, 176, 3)) to match 203.png ((1025, 165, 3))
+PSNR is 22.0622 and SSIM is 0.6560
+Processing image: ['204']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['204']_output.png
+Resizing ['204']_output.png ((1040, 176, 3)) to match 204.png ((1025, 165, 3))
+PSNR is 21.7499 and SSIM is 0.6482
+Processing image: ['205']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['205']_output.png
+Resizing ['205']_output.png ((1040, 176, 3)) to match 205.png ((1025, 165, 3))
+PSNR is 26.6875 and SSIM is 0.8004
+Processing image: ['206']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['206']_output.png
+Resizing ['206']_output.png ((1040, 176, 3)) to match 206.png ((1025, 165, 3))
+PSNR is 27.2388 and SSIM is 0.7892
+Processing image: ['207']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['207']_output.png
+Resizing ['207']_output.png ((1040, 176, 3)) to match 207.png ((1025, 165, 3))
+PSNR is 23.9872 and SSIM is 0.6025
+Processing image: ['208']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['208']_output.png
+Resizing ['208']_output.png ((1040, 176, 3)) to match 208.png ((1025, 165, 3))
+PSNR is 25.7841 and SSIM is 0.4274
+Processing image: ['209']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['209']_output.png
+Resizing ['209']_output.png ((1040, 176, 3)) to match 209.png ((1025, 165, 3))
+PSNR is 17.1643 and SSIM is 0.3959
+Processing image: ['21']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['21']_output.png
+Resizing ['21']_output.png ((1040, 176, 3)) to match 21.png ((1025, 165, 3))
+PSNR is 27.9915 and SSIM is 0.8414
+Processing image: ['210']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['210']_output.png
+Resizing ['210']_output.png ((1040, 176, 3)) to match 210.png ((1025, 165, 3))
+PSNR is 16.6727 and SSIM is 0.5436
+Processing image: ['211']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['211']_output.png
+Resizing ['211']_output.png ((1040, 176, 3)) to match 211.png ((1025, 165, 3))
+PSNR is 26.9818 and SSIM is 0.8071
+Processing image: ['212']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['212']_output.png
+Resizing ['212']_output.png ((1040, 176, 3)) to match 212.png ((1025, 165, 3))
+PSNR is 25.5520 and SSIM is 0.7683
+Processing image: ['213']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['213']_output.png
+Resizing ['213']_output.png ((1040, 176, 3)) to match 213.png ((1025, 165, 3))
+PSNR is 24.3283 and SSIM is 0.7364
+Processing image: ['214']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['214']_output.png
+Resizing ['214']_output.png ((1040, 176, 3)) to match 214.png ((1025, 165, 3))
+PSNR is 26.6616 and SSIM is 0.8148
+Processing image: ['215']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['215']_output.png
+Resizing ['215']_output.png ((1040, 176, 3)) to match 215.png ((1025, 165, 3))
+PSNR is 26.8991 and SSIM is 0.8246
+Processing image: ['216']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['216']_output.png
+Resizing ['216']_output.png ((1040, 176, 3)) to match 216.png ((1025, 165, 3))
+PSNR is 24.5483 and SSIM is 0.7522
+Processing image: ['217']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['217']_output.png
+Resizing ['217']_output.png ((1040, 176, 3)) to match 217.png ((1025, 165, 3))
+PSNR is 27.4904 and SSIM is 0.8457
+Processing image: ['218']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['218']_output.png
+Resizing ['218']_output.png ((1040, 176, 3)) to match 218.png ((1025, 165, 3))
+PSNR is 26.0759 and SSIM is 0.7949
+Processing image: ['219']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['219']_output.png
+Resizing ['219']_output.png ((1040, 176, 3)) to match 219.png ((1025, 165, 3))
+PSNR is 26.7421 and SSIM is 0.8153
+Processing image: ['22']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['22']_output.png
+Resizing ['22']_output.png ((1040, 176, 3)) to match 22.png ((1025, 165, 3))
+PSNR is 26.8525 and SSIM is 0.7998
+Processing image: ['220']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['220']_output.png
+Resizing ['220']_output.png ((1040, 176, 3)) to match 220.png ((1025, 165, 3))
+PSNR is 27.8991 and SSIM is 0.7899
+Processing image: ['221']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['221']_output.png
+Resizing ['221']_output.png ((1040, 176, 3)) to match 221.png ((1025, 165, 3))
+PSNR is 19.1907 and SSIM is 0.6272
+Processing image: ['222']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['222']_output.png
+Resizing ['222']_output.png ((1040, 176, 3)) to match 222.png ((1025, 165, 3))
+PSNR is 26.1135 and SSIM is 0.7909
+Processing image: ['223']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['223']_output.png
+Resizing ['223']_output.png ((1040, 176, 3)) to match 223.png ((1025, 165, 3))
+PSNR is 27.9801 and SSIM is 0.8371
+Processing image: ['224']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['224']_output.png
+Resizing ['224']_output.png ((1040, 176, 3)) to match 224.png ((1025, 165, 3))
+PSNR is 28.7250 and SSIM is 0.8484
+Processing image: ['225']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['225']_output.png
+Resizing ['225']_output.png ((1040, 176, 3)) to match 225.png ((1025, 165, 3))
+PSNR is 26.8124 and SSIM is 0.6872
+Processing image: ['226']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['226']_output.png
+Resizing ['226']_output.png ((1040, 176, 3)) to match 226.png ((1025, 165, 3))
+PSNR is 27.6157 and SSIM is 0.8167
+Processing image: ['227']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['227']_output.png
+Resizing ['227']_output.png ((1040, 176, 3)) to match 227.png ((1025, 165, 3))
+PSNR is 26.3462 and SSIM is 0.8041
+Processing image: ['228']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['228']_output.png
+Resizing ['228']_output.png ((1040, 176, 3)) to match 228.png ((1025, 165, 3))
+PSNR is 26.4802 and SSIM is 0.7786
+Processing image: ['229']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['229']_output.png
+Resizing ['229']_output.png ((1040, 176, 3)) to match 229.png ((1025, 165, 3))
+PSNR is 26.6613 and SSIM is 0.8169
+Processing image: ['23']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['23']_output.png
+Resizing ['23']_output.png ((1040, 176, 3)) to match 23.png ((1025, 165, 3))
+PSNR is 25.7143 and SSIM is 0.7930
+Processing image: ['230']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['230']_output.png
+Resizing ['230']_output.png ((1040, 176, 3)) to match 230.png ((1025, 165, 3))
+PSNR is 26.7571 and SSIM is 0.7975
+Processing image: ['231']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['231']_output.png
+Resizing ['231']_output.png ((1040, 176, 3)) to match 231.png ((1025, 165, 3))
+PSNR is 25.6573 and SSIM is 0.7398
+Processing image: ['232']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['232']_output.png
+Resizing ['232']_output.png ((1040, 176, 3)) to match 232.png ((1025, 165, 3))
+PSNR is 26.9987 and SSIM is 0.8041
+Processing image: ['233']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['233']_output.png
+Resizing ['233']_output.png ((1040, 176, 3)) to match 233.png ((1025, 165, 3))
+PSNR is 26.0031 and SSIM is 0.7848
+Processing image: ['234']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['234']_output.png
+Resizing ['234']_output.png ((1040, 176, 3)) to match 234.png ((1025, 165, 3))
+PSNR is 26.8375 and SSIM is 0.7863
+Processing image: ['235']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['235']_output.png
+Resizing ['235']_output.png ((1040, 176, 3)) to match 235.png ((1025, 165, 3))
+PSNR is 26.6403 and SSIM is 0.7537
+Processing image: ['236']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['236']_output.png
+Resizing ['236']_output.png ((1040, 176, 3)) to match 236.png ((1025, 165, 3))
+PSNR is 27.8591 and SSIM is 0.8560
+Processing image: ['237']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['237']_output.png
+Resizing ['237']_output.png ((1040, 176, 3)) to match 237.png ((1025, 165, 3))
+PSNR is 25.1518 and SSIM is 0.7725
+Processing image: ['238']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['238']_output.png
+Resizing ['238']_output.png ((1040, 176, 3)) to match 238.png ((1025, 165, 3))
+PSNR is 25.2338 and SSIM is 0.7606
+Processing image: ['239']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['239']_output.png
+Resizing ['239']_output.png ((1040, 176, 3)) to match 239.png ((1025, 165, 3))
+PSNR is 25.2701 and SSIM is 0.7510
+Processing image: ['24']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['24']_output.png
+Resizing ['24']_output.png ((1040, 176, 3)) to match 24.png ((1025, 165, 3))
+PSNR is 28.0732 and SSIM is 0.8357
+Processing image: ['240']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['240']_output.png
+Resizing ['240']_output.png ((1040, 176, 3)) to match 240.png ((1025, 165, 3))
+PSNR is 23.0333 and SSIM is 0.6003
+Processing image: ['241']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['241']_output.png
+Resizing ['241']_output.png ((1040, 176, 3)) to match 241.png ((1025, 165, 3))
+PSNR is 24.1530 and SSIM is 0.4060
+Processing image: ['242']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['242']_output.png
+Resizing ['242']_output.png ((1040, 176, 3)) to match 242.png ((1025, 165, 3))
+PSNR is 19.5743 and SSIM is 0.3776
+Processing image: ['243']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['243']_output.png
+Resizing ['243']_output.png ((1040, 176, 3)) to match 243.png ((1025, 165, 3))
+PSNR is 29.3684 and SSIM is 0.8424
+Processing image: ['244']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['244']_output.png
+Resizing ['244']_output.png ((1040, 176, 3)) to match 244.png ((1025, 165, 3))
+PSNR is 29.7282 and SSIM is 0.8552
+Processing image: ['245']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['245']_output.png
+Resizing ['245']_output.png ((1040, 176, 3)) to match 245.png ((1025, 165, 3))
+PSNR is 30.0781 and SSIM is 0.8673
+Processing image: ['246']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['246']_output.png
+Resizing ['246']_output.png ((1040, 176, 3)) to match 246.png ((1025, 165, 3))
+PSNR is 31.1865 and SSIM is 0.8665
+Processing image: ['247']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['247']_output.png
+Resizing ['247']_output.png ((1040, 176, 3)) to match 247.png ((1025, 165, 3))
+PSNR is 26.6670 and SSIM is 0.8153
+Processing image: ['248']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['248']_output.png
+Resizing ['248']_output.png ((1040, 176, 3)) to match 248.png ((1025, 165, 3))
+PSNR is 27.1935 and SSIM is 0.8191
+Processing image: ['249']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['249']_output.png
+Resizing ['249']_output.png ((1040, 176, 3)) to match 249.png ((1025, 165, 3))
+PSNR is 28.7164 and SSIM is 0.8392
+Processing image: ['25']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['25']_output.png
+Resizing ['25']_output.png ((1040, 176, 3)) to match 25.png ((1025, 165, 3))
+PSNR is 28.9329 and SSIM is 0.8519
+Processing image: ['250']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['250']_output.png
+Resizing ['250']_output.png ((1040, 176, 3)) to match 250.png ((1025, 165, 3))
+PSNR is 30.1817 and SSIM is 0.8782
+Processing image: ['251']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['251']_output.png
+Resizing ['251']_output.png ((1040, 176, 3)) to match 251.png ((1025, 165, 3))
+PSNR is 28.9590 and SSIM is 0.8452
+Processing image: ['252']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['252']_output.png
+Resizing ['252']_output.png ((1040, 176, 3)) to match 252.png ((1025, 165, 3))
+PSNR is 30.3158 and SSIM is 0.8575
+Processing image: ['253']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['253']_output.png
+Resizing ['253']_output.png ((1040, 176, 3)) to match 253.png ((1025, 165, 3))
+PSNR is 28.6879 and SSIM is 0.8519
+Processing image: ['254']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['254']_output.png
+Resizing ['254']_output.png ((1040, 176, 3)) to match 254.png ((1025, 165, 3))
+PSNR is 29.4312 and SSIM is 0.8475
+Processing image: ['255']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['255']_output.png
+Resizing ['255']_output.png ((1040, 176, 3)) to match 255.png ((1025, 165, 3))
+PSNR is 27.3999 and SSIM is 0.8144
+Processing image: ['256']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['256']_output.png
+Resizing ['256']_output.png ((1040, 176, 3)) to match 256.png ((1025, 165, 3))
+PSNR is 30.1051 and SSIM is 0.8709
+Processing image: ['257']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['257']_output.png
+Resizing ['257']_output.png ((1040, 176, 3)) to match 257.png ((1025, 165, 3))
+PSNR is 29.4701 and SSIM is 0.8545
+Processing image: ['258']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['258']_output.png
+Resizing ['258']_output.png ((1040, 176, 3)) to match 258.png ((1025, 165, 3))
+PSNR is 27.6439 and SSIM is 0.8165
+Processing image: ['259']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['259']_output.png
+Resizing ['259']_output.png ((1040, 176, 3)) to match 259.png ((1025, 165, 3))
+PSNR is 26.1213 and SSIM is 0.7481
+Processing image: ['26']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['26']_output.png
+Resizing ['26']_output.png ((1040, 176, 3)) to match 26.png ((1025, 165, 3))
+PSNR is 27.3869 and SSIM is 0.8134
+Processing image: ['260']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['260']_output.png
+Resizing ['260']_output.png ((1040, 176, 3)) to match 260.png ((1025, 165, 3))
+PSNR is 25.8167 and SSIM is 0.7591
+Processing image: ['261']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['261']_output.png
+Resizing ['261']_output.png ((1040, 176, 3)) to match 261.png ((1025, 165, 3))
+PSNR is 25.0914 and SSIM is 0.7085
+Processing image: ['262']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['262']_output.png
+Resizing ['262']_output.png ((1040, 176, 3)) to match 262.png ((1025, 165, 3))
+PSNR is 23.4885 and SSIM is 0.6697
+Processing image: ['263']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['263']_output.png
+Resizing ['263']_output.png ((1040, 176, 3)) to match 263.png ((1025, 165, 3))
+PSNR is 23.0525 and SSIM is 0.6408
+Processing image: ['264']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['264']_output.png
+Resizing ['264']_output.png ((1040, 176, 3)) to match 264.png ((1025, 165, 3))
+PSNR is 26.7108 and SSIM is 0.8181
+Processing image: ['265']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['265']_output.png
+Resizing ['265']_output.png ((1040, 176, 3)) to match 265.png ((1025, 165, 3))
+PSNR is 26.0210 and SSIM is 0.8189
+Processing image: ['266']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['266']_output.png
+Resizing ['266']_output.png ((1040, 176, 3)) to match 266.png ((1025, 165, 3))
+PSNR is 26.9053 and SSIM is 0.8270
+Processing image: ['267']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['267']_output.png
+Resizing ['267']_output.png ((1040, 176, 3)) to match 267.png ((1025, 165, 3))
+PSNR is 27.0361 and SSIM is 0.8132
+Processing image: ['268']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['268']_output.png
+Resizing ['268']_output.png ((1040, 176, 3)) to match 268.png ((1025, 165, 3))
+PSNR is 27.2809 and SSIM is 0.8007
+Processing image: ['269']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['269']_output.png
+Resizing ['269']_output.png ((1040, 176, 3)) to match 269.png ((1025, 165, 3))
+PSNR is 27.3132 and SSIM is 0.8111
+Processing image: ['27']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['27']_output.png
+Resizing ['27']_output.png ((1040, 176, 3)) to match 27.png ((1025, 165, 3))
+PSNR is 24.9480 and SSIM is 0.7177
+Processing image: ['270']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['270']_output.png
+Resizing ['270']_output.png ((1040, 176, 3)) to match 270.png ((1025, 165, 3))
+PSNR is 28.0619 and SSIM is 0.8365
+Processing image: ['271']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['271']_output.png
+Resizing ['271']_output.png ((1040, 176, 3)) to match 271.png ((1025, 165, 3))
+PSNR is 26.4744 and SSIM is 0.7780
+Processing image: ['272']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['272']_output.png
+Resizing ['272']_output.png ((1040, 176, 3)) to match 272.png ((1025, 165, 3))
+PSNR is 30.0450 and SSIM is 0.8750
+Processing image: ['273']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['273']_output.png
+Resizing ['273']_output.png ((1040, 176, 3)) to match 273.png ((1025, 165, 3))
+PSNR is 28.3056 and SSIM is 0.8119
+Processing image: ['274']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['274']_output.png
+Resizing ['274']_output.png ((1040, 176, 3)) to match 274.png ((1025, 165, 3))
+PSNR is 27.6523 and SSIM is 0.7990
+Processing image: ['275']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['275']_output.png
+Resizing ['275']_output.png ((1040, 176, 3)) to match 275.png ((1025, 165, 3))
+PSNR is 27.0725 and SSIM is 0.7954
+Processing image: ['276']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['276']_output.png
+Resizing ['276']_output.png ((1040, 176, 3)) to match 276.png ((1025, 165, 3))
+PSNR is 28.1959 and SSIM is 0.8349
+Processing image: ['277']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['277']_output.png
+Resizing ['277']_output.png ((1040, 176, 3)) to match 277.png ((1025, 165, 3))
+PSNR is 26.8251 and SSIM is 0.7953
+Processing image: ['278']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['278']_output.png
+Resizing ['278']_output.png ((1040, 176, 3)) to match 278.png ((1025, 165, 3))
+PSNR is 27.3606 and SSIM is 0.8117
+Processing image: ['279']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['279']_output.png
+Resizing ['279']_output.png ((1040, 176, 3)) to match 279.png ((1025, 165, 3))
+PSNR is 27.9794 and SSIM is 0.8318
+Processing image: ['28']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['28']_output.png
+Resizing ['28']_output.png ((1040, 176, 3)) to match 28.png ((1025, 165, 3))
+PSNR is 27.7702 and SSIM is 0.8222
+Processing image: ['280']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['280']_output.png
+Resizing ['280']_output.png ((1040, 176, 3)) to match 280.png ((1025, 165, 3))
+PSNR is 28.2286 and SSIM is 0.8178
+Processing image: ['281']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['281']_output.png
+Resizing ['281']_output.png ((1040, 176, 3)) to match 281.png ((1025, 165, 3))
+PSNR is 25.6719 and SSIM is 0.7942
+Processing image: ['282']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['282']_output.png
+Resizing ['282']_output.png ((1040, 176, 3)) to match 282.png ((1025, 165, 3))
+PSNR is 25.7746 and SSIM is 0.7550
+Processing image: ['283']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['283']_output.png
+Resizing ['283']_output.png ((1040, 176, 3)) to match 283.png ((1025, 165, 3))
+PSNR is 27.7742 and SSIM is 0.8364
+Processing image: ['284']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['284']_output.png
+Resizing ['284']_output.png ((1040, 176, 3)) to match 284.png ((1025, 165, 3))
+PSNR is 27.5071 and SSIM is 0.8303
+Processing image: ['285']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['285']_output.png
+Resizing ['285']_output.png ((1040, 176, 3)) to match 285.png ((1025, 165, 3))
+PSNR is 26.7575 and SSIM is 0.8058
+Processing image: ['286']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['286']_output.png
+Resizing ['286']_output.png ((1040, 176, 3)) to match 286.png ((1025, 165, 3))
+PSNR is 27.2421 and SSIM is 0.7980
+Processing image: ['287']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['287']_output.png
+Resizing ['287']_output.png ((1040, 176, 3)) to match 287.png ((1025, 165, 3))
+PSNR is 25.8681 and SSIM is 0.7898
+Processing image: ['288']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['288']_output.png
+Resizing ['288']_output.png ((1040, 176, 3)) to match 288.png ((1025, 165, 3))
+PSNR is 27.5709 and SSIM is 0.8307
+Processing image: ['289']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['289']_output.png
+Resizing ['289']_output.png ((1040, 176, 3)) to match 289.png ((1025, 165, 3))
+PSNR is 26.4666 and SSIM is 0.8223
+Processing image: ['29']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['29']_output.png
+Resizing ['29']_output.png ((1040, 176, 3)) to match 29.png ((1025, 165, 3))
+PSNR is 26.7079 and SSIM is 0.7890
+Processing image: ['290']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['290']_output.png
+Resizing ['290']_output.png ((1040, 176, 3)) to match 290.png ((1025, 165, 3))
+PSNR is 27.5363 and SSIM is 0.8338
+Processing image: ['291']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['291']_output.png
+Resizing ['291']_output.png ((1040, 176, 3)) to match 291.png ((1025, 165, 3))
+PSNR is 27.1493 and SSIM is 0.8093
+Processing image: ['292']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['292']_output.png
+Resizing ['292']_output.png ((1040, 176, 3)) to match 292.png ((1025, 165, 3))
+PSNR is 29.1245 and SSIM is 0.8417
+Processing image: ['293']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['293']_output.png
+Resizing ['293']_output.png ((1040, 176, 3)) to match 293.png ((1025, 165, 3))
+PSNR is 26.9268 and SSIM is 0.8070
+Processing image: ['294']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['294']_output.png
+Resizing ['294']_output.png ((1040, 176, 3)) to match 294.png ((1025, 165, 3))
+PSNR is 28.3731 and SSIM is 0.8182
+Processing image: ['295']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['295']_output.png
+Resizing ['295']_output.png ((1040, 176, 3)) to match 295.png ((1025, 165, 3))
+PSNR is 26.8717 and SSIM is 0.8143
+Processing image: ['296']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['296']_output.png
+Resizing ['296']_output.png ((1040, 176, 3)) to match 296.png ((1025, 165, 3))
+PSNR is 26.8919 and SSIM is 0.7915
+Processing image: ['297']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['297']_output.png
+Resizing ['297']_output.png ((1040, 176, 3)) to match 297.png ((1025, 165, 3))
+PSNR is 26.8717 and SSIM is 0.8023
+Processing image: ['298']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['298']_output.png
+Resizing ['298']_output.png ((1040, 176, 3)) to match 298.png ((1025, 165, 3))
+PSNR is 27.6102 and SSIM is 0.8227
+Processing image: ['299']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['299']_output.png
+Resizing ['299']_output.png ((1040, 176, 3)) to match 299.png ((1025, 165, 3))
+PSNR is 27.2307 and SSIM is 0.8076
+Processing image: ['30']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['30']_output.png
+Resizing ['30']_output.png ((1040, 176, 3)) to match 30.png ((1025, 165, 3))
+PSNR is 25.3396 and SSIM is 0.7696
+Processing image: ['300']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['300']_output.png
+Resizing ['300']_output.png ((1040, 176, 3)) to match 300.png ((1025, 165, 3))
+PSNR is 26.2137 and SSIM is 0.7941
+Processing image: ['301']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['301']_output.png
+Resizing ['301']_output.png ((1040, 176, 3)) to match 301.png ((1025, 165, 3))
+PSNR is 26.5423 and SSIM is 0.8005
+Processing image: ['302']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['302']_output.png
+Resizing ['302']_output.png ((1040, 176, 3)) to match 302.png ((1025, 165, 3))
+PSNR is 27.4057 and SSIM is 0.8023
+Processing image: ['303']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['303']_output.png
+Resizing ['303']_output.png ((1040, 176, 3)) to match 303.png ((1025, 165, 3))
+PSNR is 26.6315 and SSIM is 0.7912
+Processing image: ['304']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['304']_output.png
+Resizing ['304']_output.png ((1040, 176, 3)) to match 304.png ((1025, 165, 3))
+PSNR is 27.0234 and SSIM is 0.8097
+Processing image: ['305']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['305']_output.png
+Resizing ['305']_output.png ((1040, 176, 3)) to match 305.png ((1025, 165, 3))
+PSNR is 28.5018 and SSIM is 0.8379
+Processing image: ['306']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['306']_output.png
+Resizing ['306']_output.png ((1040, 176, 3)) to match 306.png ((1025, 165, 3))
+PSNR is 28.6636 and SSIM is 0.8386
+Processing image: ['307']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['307']_output.png
+Resizing ['307']_output.png ((1040, 176, 3)) to match 307.png ((1025, 165, 3))
+PSNR is 28.2676 and SSIM is 0.8053
+Processing image: ['308']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['308']_output.png
+Resizing ['308']_output.png ((1040, 176, 3)) to match 308.png ((1025, 165, 3))
+PSNR is 27.0719 and SSIM is 0.7668
+Processing image: ['309']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['309']_output.png
+Resizing ['309']_output.png ((1040, 176, 3)) to match 309.png ((1025, 165, 3))
+PSNR is 27.7040 and SSIM is 0.8084
+Processing image: ['31']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['31']_output.png
+Resizing ['31']_output.png ((1040, 176, 3)) to match 31.png ((1025, 165, 3))
+PSNR is 26.3775 and SSIM is 0.7613
+Processing image: ['310']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['310']_output.png
+Resizing ['310']_output.png ((1040, 176, 3)) to match 310.png ((1025, 165, 3))
+PSNR is 26.7136 and SSIM is 0.7888
+Processing image: ['311']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['311']_output.png
+Resizing ['311']_output.png ((1040, 176, 3)) to match 311.png ((1025, 165, 3))
+PSNR is 26.4769 and SSIM is 0.7959
+Processing image: ['312']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['312']_output.png
+Resizing ['312']_output.png ((1040, 176, 3)) to match 312.png ((1025, 165, 3))
+PSNR is 28.3655 and SSIM is 0.8274
+Processing image: ['313']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['313']_output.png
+Resizing ['313']_output.png ((1040, 176, 3)) to match 313.png ((1025, 165, 3))
+PSNR is 27.5446 and SSIM is 0.8203
+Processing image: ['314']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['314']_output.png
+Resizing ['314']_output.png ((1040, 176, 3)) to match 314.png ((1025, 165, 3))
+PSNR is 26.4858 and SSIM is 0.8135
+Processing image: ['315']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['315']_output.png
+Resizing ['315']_output.png ((1040, 176, 3)) to match 315.png ((1025, 165, 3))
+PSNR is 25.8243 and SSIM is 0.7889
+Processing image: ['316']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['316']_output.png
+Resizing ['316']_output.png ((1040, 176, 3)) to match 316.png ((1025, 165, 3))
+PSNR is 27.0289 and SSIM is 0.7998
+Processing image: ['317']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['317']_output.png
+Resizing ['317']_output.png ((1040, 176, 3)) to match 317.png ((1025, 165, 3))
+PSNR is 27.2770 and SSIM is 0.8176
+Processing image: ['318']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['318']_output.png
+Resizing ['318']_output.png ((1040, 176, 3)) to match 318.png ((1025, 165, 3))
+PSNR is 26.3583 and SSIM is 0.8017
+Processing image: ['319']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['319']_output.png
+Resizing ['319']_output.png ((1040, 176, 3)) to match 319.png ((1025, 165, 3))
+PSNR is 26.5166 and SSIM is 0.7857
+Processing image: ['32']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['32']_output.png
+Resizing ['32']_output.png ((1040, 176, 3)) to match 32.png ((1025, 165, 3))
+PSNR is 26.9894 and SSIM is 0.8211
+Processing image: ['320']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['320']_output.png
+Resizing ['320']_output.png ((1040, 176, 3)) to match 320.png ((1025, 165, 3))
+PSNR is 27.5336 and SSIM is 0.8061
+Processing image: ['321']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['321']_output.png
+Resizing ['321']_output.png ((1040, 176, 3)) to match 321.png ((1025, 165, 3))
+PSNR is 27.6433 and SSIM is 0.8161
+Processing image: ['322']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['322']_output.png
+Resizing ['322']_output.png ((1040, 176, 3)) to match 322.png ((1025, 165, 3))
+PSNR is 27.4800 and SSIM is 0.8106
+Processing image: ['323']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['323']_output.png
+Resizing ['323']_output.png ((1040, 176, 3)) to match 323.png ((1025, 165, 3))
+PSNR is 28.4747 and SSIM is 0.8334
+Processing image: ['324']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['324']_output.png
+Resizing ['324']_output.png ((1040, 176, 3)) to match 324.png ((1025, 165, 3))
+PSNR is 27.6803 and SSIM is 0.8137
+Processing image: ['325']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['325']_output.png
+Resizing ['325']_output.png ((1040, 176, 3)) to match 325.png ((1025, 165, 3))
+PSNR is 28.0254 and SSIM is 0.8134
+Processing image: ['326']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['326']_output.png
+Resizing ['326']_output.png ((1040, 176, 3)) to match 326.png ((1025, 165, 3))
+PSNR is 26.4989 and SSIM is 0.8084
+Processing image: ['327']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['327']_output.png
+Resizing ['327']_output.png ((1040, 176, 3)) to match 327.png ((1025, 165, 3))
+PSNR is 28.7069 and SSIM is 0.8225
+Processing image: ['328']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['328']_output.png
+Resizing ['328']_output.png ((1040, 176, 3)) to match 328.png ((1025, 165, 3))
+PSNR is 27.8694 and SSIM is 0.8079
+Processing image: ['329']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['329']_output.png
+Resizing ['329']_output.png ((1040, 176, 3)) to match 329.png ((1025, 165, 3))
+PSNR is 28.2827 and SSIM is 0.8182
+Processing image: ['33']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['33']_output.png
+Resizing ['33']_output.png ((1040, 176, 3)) to match 33.png ((1025, 165, 3))
+PSNR is 26.5296 and SSIM is 0.8018
+Processing image: ['330']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['330']_output.png
+Resizing ['330']_output.png ((1040, 176, 3)) to match 330.png ((1025, 165, 3))
+PSNR is 28.2546 and SSIM is 0.8248
+Processing image: ['331']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['331']_output.png
+Resizing ['331']_output.png ((1040, 176, 3)) to match 331.png ((1025, 165, 3))
+PSNR is 27.3539 and SSIM is 0.8169
+Processing image: ['332']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['332']_output.png
+Resizing ['332']_output.png ((1040, 176, 3)) to match 332.png ((1025, 165, 3))
+PSNR is 27.0529 and SSIM is 0.7944
+Processing image: ['333']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['333']_output.png
+Resizing ['333']_output.png ((1040, 176, 3)) to match 333.png ((1025, 165, 3))
+PSNR is 26.8702 and SSIM is 0.8095
+Processing image: ['334']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['334']_output.png
+Resizing ['334']_output.png ((1040, 176, 3)) to match 334.png ((1025, 165, 3))
+PSNR is 26.6937 and SSIM is 0.8145
+Processing image: ['335']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['335']_output.png
+Resizing ['335']_output.png ((1040, 176, 3)) to match 335.png ((1025, 165, 3))
+PSNR is 28.7839 and SSIM is 0.8469
+Processing image: ['336']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['336']_output.png
+Resizing ['336']_output.png ((1040, 176, 3)) to match 336.png ((1025, 165, 3))
+PSNR is 27.4699 and SSIM is 0.8127
+Processing image: ['337']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['337']_output.png
+Resizing ['337']_output.png ((1040, 176, 3)) to match 337.png ((1025, 165, 3))
+PSNR is 27.5580 and SSIM is 0.8309
+Processing image: ['338']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['338']_output.png
+Resizing ['338']_output.png ((1040, 176, 3)) to match 338.png ((1025, 165, 3))
+PSNR is 26.5283 and SSIM is 0.8024
+Processing image: ['339']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['339']_output.png
+Resizing ['339']_output.png ((1040, 176, 3)) to match 339.png ((1025, 165, 3))
+PSNR is 27.4318 and SSIM is 0.8205
+Processing image: ['34']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['34']_output.png
+Resizing ['34']_output.png ((1040, 176, 3)) to match 34.png ((1025, 165, 3))
+PSNR is 27.1501 and SSIM is 0.8120
+Processing image: ['340']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['340']_output.png
+Resizing ['340']_output.png ((1040, 176, 3)) to match 340.png ((1025, 165, 3))
+PSNR is 28.0408 and SSIM is 0.8395
+Processing image: ['341']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['341']_output.png
+Resizing ['341']_output.png ((1040, 176, 3)) to match 341.png ((1025, 165, 3))
+PSNR is 26.4512 and SSIM is 0.8225
+Processing image: ['342']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['342']_output.png
+Resizing ['342']_output.png ((1040, 176, 3)) to match 342.png ((1025, 165, 3))
+PSNR is 27.5984 and SSIM is 0.8191
+Processing image: ['343']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['343']_output.png
+Resizing ['343']_output.png ((1040, 176, 3)) to match 343.png ((1025, 165, 3))
+PSNR is 27.8749 and SSIM is 0.8293
+Processing image: ['344']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['344']_output.png
+Resizing ['344']_output.png ((1040, 176, 3)) to match 344.png ((1025, 165, 3))
+PSNR is 27.3068 and SSIM is 0.8206
+Processing image: ['345']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['345']_output.png
+Resizing ['345']_output.png ((1040, 176, 3)) to match 345.png ((1025, 165, 3))
+PSNR is 26.4131 and SSIM is 0.8221
+Processing image: ['346']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['346']_output.png
+Resizing ['346']_output.png ((1040, 176, 3)) to match 346.png ((1025, 165, 3))
+PSNR is 28.0083 and SSIM is 0.8249
+Processing image: ['347']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['347']_output.png
+Resizing ['347']_output.png ((1040, 176, 3)) to match 347.png ((1025, 165, 3))
+PSNR is 27.5041 and SSIM is 0.8241
+Processing image: ['348']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['348']_output.png
+Resizing ['348']_output.png ((1040, 176, 3)) to match 348.png ((1025, 165, 3))
+PSNR is 25.9429 and SSIM is 0.7752
+Processing image: ['349']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['349']_output.png
+Resizing ['349']_output.png ((1040, 176, 3)) to match 349.png ((1025, 165, 3))
+PSNR is 26.2139 and SSIM is 0.7858
+Processing image: ['35']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['35']_output.png
+Resizing ['35']_output.png ((1040, 176, 3)) to match 35.png ((1025, 165, 3))
+PSNR is 25.5128 and SSIM is 0.7744
+Processing image: ['350']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['350']_output.png
+Resizing ['350']_output.png ((1040, 176, 3)) to match 350.png ((1025, 165, 3))
+PSNR is 26.3686 and SSIM is 0.7634
+Processing image: ['351']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['351']_output.png
+Resizing ['351']_output.png ((1040, 176, 3)) to match 351.png ((1025, 165, 3))
+PSNR is 26.7044 and SSIM is 0.7908
+Processing image: ['352']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['352']_output.png
+Resizing ['352']_output.png ((1040, 176, 3)) to match 352.png ((1025, 165, 3))
+PSNR is 26.6778 and SSIM is 0.7671
+Processing image: ['353']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['353']_output.png
+Resizing ['353']_output.png ((1040, 176, 3)) to match 353.png ((1025, 165, 3))
+PSNR is 26.7038 and SSIM is 0.8075
+Processing image: ['354']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['354']_output.png
+Resizing ['354']_output.png ((1040, 176, 3)) to match 354.png ((1025, 165, 3))
+PSNR is 25.9471 and SSIM is 0.7758
+Processing image: ['355']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['355']_output.png
+Resizing ['355']_output.png ((1040, 176, 3)) to match 355.png ((1025, 165, 3))
+PSNR is 26.1882 and SSIM is 0.7690
+Processing image: ['356']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['356']_output.png
+Resizing ['356']_output.png ((1040, 176, 3)) to match 356.png ((1025, 165, 3))
+PSNR is 25.9479 and SSIM is 0.7744
+Processing image: ['357']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['357']_output.png
+Resizing ['357']_output.png ((1040, 176, 3)) to match 357.png ((1025, 165, 3))
+PSNR is 26.0248 and SSIM is 0.7695
+Processing image: ['358']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['358']_output.png
+Resizing ['358']_output.png ((1040, 176, 3)) to match 358.png ((1025, 165, 3))
+PSNR is 26.5216 and SSIM is 0.7937
+Processing image: ['359']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['359']_output.png
+Resizing ['359']_output.png ((1040, 176, 3)) to match 359.png ((1025, 165, 3))
+PSNR is 25.4232 and SSIM is 0.7965
+Processing image: ['36']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['36']_output.png
+Resizing ['36']_output.png ((1040, 176, 3)) to match 36.png ((1025, 165, 3))
+PSNR is 29.1878 and SSIM is 0.8558
+Processing image: ['360']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['360']_output.png
+Resizing ['360']_output.png ((1040, 176, 3)) to match 360.png ((1025, 165, 3))
+PSNR is 26.1370 and SSIM is 0.8003
+Processing image: ['361']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['361']_output.png
+Resizing ['361']_output.png ((1040, 176, 3)) to match 361.png ((1025, 165, 3))
+PSNR is 25.2970 and SSIM is 0.7588
+Processing image: ['362']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['362']_output.png
+Resizing ['362']_output.png ((1040, 176, 3)) to match 362.png ((1025, 165, 3))
+PSNR is 24.6678 and SSIM is 0.7730
+Processing image: ['363']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['363']_output.png
+Resizing ['363']_output.png ((1040, 176, 3)) to match 363.png ((1025, 165, 3))
+PSNR is 26.8881 and SSIM is 0.7959
+Processing image: ['364']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['364']_output.png
+Resizing ['364']_output.png ((1040, 176, 3)) to match 364.png ((1025, 165, 3))
+PSNR is 26.4111 and SSIM is 0.7793
+Processing image: ['365']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['365']_output.png
+Resizing ['365']_output.png ((1040, 176, 3)) to match 365.png ((1025, 165, 3))
+PSNR is 26.5212 and SSIM is 0.7780
+Processing image: ['366']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['366']_output.png
+Resizing ['366']_output.png ((1040, 176, 3)) to match 366.png ((1025, 165, 3))
+PSNR is 26.5064 and SSIM is 0.7976
+Processing image: ['367']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['367']_output.png
+Resizing ['367']_output.png ((1040, 176, 3)) to match 367.png ((1025, 165, 3))
+PSNR is 28.3257 and SSIM is 0.8124
+Processing image: ['368']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['368']_output.png
+Resizing ['368']_output.png ((1040, 176, 3)) to match 368.png ((1025, 165, 3))
+PSNR is 27.9901 and SSIM is 0.8160
+Processing image: ['369']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['369']_output.png
+Resizing ['369']_output.png ((1040, 176, 3)) to match 369.png ((1025, 165, 3))
+PSNR is 27.2925 and SSIM is 0.8156
+Processing image: ['37']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['37']_output.png
+Resizing ['37']_output.png ((1040, 176, 3)) to match 37.png ((1025, 165, 3))
+PSNR is 26.6360 and SSIM is 0.7856
+Processing image: ['370']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['370']_output.png
+Resizing ['370']_output.png ((1040, 176, 3)) to match 370.png ((1025, 165, 3))
+PSNR is 27.7493 and SSIM is 0.8029
+Processing image: ['371']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['371']_output.png
+Resizing ['371']_output.png ((1040, 176, 3)) to match 371.png ((1025, 165, 3))
+PSNR is 27.2216 and SSIM is 0.8215
+Processing image: ['372']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['372']_output.png
+Resizing ['372']_output.png ((1040, 176, 3)) to match 372.png ((1025, 165, 3))
+PSNR is 25.1416 and SSIM is 0.7459
+Processing image: ['373']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['373']_output.png
+Resizing ['373']_output.png ((1040, 176, 3)) to match 373.png ((1025, 165, 3))
+PSNR is 27.6857 and SSIM is 0.7987
+Processing image: ['374']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['374']_output.png
+Resizing ['374']_output.png ((1040, 176, 3)) to match 374.png ((1025, 165, 3))
+PSNR is 26.8063 and SSIM is 0.7711
+Processing image: ['375']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['375']_output.png
+Resizing ['375']_output.png ((1040, 176, 3)) to match 375.png ((1025, 165, 3))
+PSNR is 26.8357 and SSIM is 0.8024
+Processing image: ['376']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['376']_output.png
+Resizing ['376']_output.png ((1040, 176, 3)) to match 376.png ((1025, 165, 3))
+PSNR is 28.0238 and SSIM is 0.8208
+Processing image: ['377']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['377']_output.png
+Resizing ['377']_output.png ((1040, 176, 3)) to match 377.png ((1025, 165, 3))
+PSNR is 25.9828 and SSIM is 0.7798
+Processing image: ['378']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['378']_output.png
+Resizing ['378']_output.png ((1040, 176, 3)) to match 378.png ((1025, 165, 3))
+PSNR is 27.3919 and SSIM is 0.7943
+Processing image: ['379']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['379']_output.png
+Resizing ['379']_output.png ((1040, 176, 3)) to match 379.png ((1025, 165, 3))
+PSNR is 27.1047 and SSIM is 0.8080
+Processing image: ['38']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['38']_output.png
+Resizing ['38']_output.png ((1040, 176, 3)) to match 38.png ((1025, 165, 3))
+PSNR is 25.7748 and SSIM is 0.7881
+Processing image: ['380']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['380']_output.png
+Resizing ['380']_output.png ((1040, 176, 3)) to match 380.png ((1025, 165, 3))
+PSNR is 26.3446 and SSIM is 0.8054
+Processing image: ['381']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['381']_output.png
+Resizing ['381']_output.png ((1040, 176, 3)) to match 381.png ((1025, 165, 3))
+PSNR is 26.1219 and SSIM is 0.7777
+Processing image: ['382']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['382']_output.png
+Resizing ['382']_output.png ((1040, 176, 3)) to match 382.png ((1025, 165, 3))
+PSNR is 26.3161 and SSIM is 0.7587
+Processing image: ['383']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['383']_output.png
+Resizing ['383']_output.png ((1040, 176, 3)) to match 383.png ((1025, 165, 3))
+PSNR is 25.5677 and SSIM is 0.7433
+Processing image: ['384']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['384']_output.png
+Resizing ['384']_output.png ((1040, 176, 3)) to match 384.png ((1025, 165, 3))
+PSNR is 25.2706 and SSIM is 0.7336
+Processing image: ['385']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['385']_output.png
+Resizing ['385']_output.png ((1040, 176, 3)) to match 385.png ((1025, 165, 3))
+PSNR is 27.9718 and SSIM is 0.7705
+Processing image: ['386']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['386']_output.png
+Resizing ['386']_output.png ((1040, 176, 3)) to match 386.png ((1025, 165, 3))
+PSNR is 29.3719 and SSIM is 0.8669
+Processing image: ['387']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['387']_output.png
+Resizing ['387']_output.png ((1040, 176, 3)) to match 387.png ((1025, 165, 3))
+PSNR is 29.3770 and SSIM is 0.8375
+Processing image: ['388']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['388']_output.png
+Resizing ['388']_output.png ((1040, 176, 3)) to match 388.png ((1025, 165, 3))
+PSNR is 28.1656 and SSIM is 0.8040
+Processing image: ['389']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['389']_output.png
+Resizing ['389']_output.png ((1040, 176, 3)) to match 389.png ((1025, 165, 3))
+PSNR is 27.3045 and SSIM is 0.8039
+Processing image: ['39']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['39']_output.png
+Resizing ['39']_output.png ((1040, 176, 3)) to match 39.png ((1025, 165, 3))
+PSNR is 26.5680 and SSIM is 0.8336
+Processing image: ['390']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['390']_output.png
+Resizing ['390']_output.png ((1040, 176, 3)) to match 390.png ((1025, 165, 3))
+PSNR is 27.9871 and SSIM is 0.8127
+Processing image: ['391']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['391']_output.png
+Resizing ['391']_output.png ((1040, 176, 3)) to match 391.png ((1025, 165, 3))
+PSNR is 29.0786 and SSIM is 0.8352
+Processing image: ['392']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['392']_output.png
+Resizing ['392']_output.png ((1040, 176, 3)) to match 392.png ((1025, 165, 3))
+PSNR is 26.9797 and SSIM is 0.8007
+Processing image: ['393']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['393']_output.png
+Resizing ['393']_output.png ((1040, 176, 3)) to match 393.png ((1025, 165, 3))
+PSNR is 27.5175 and SSIM is 0.8175
+Processing image: ['394']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['394']_output.png
+Resizing ['394']_output.png ((1040, 176, 3)) to match 394.png ((1025, 165, 3))
+PSNR is 26.2267 and SSIM is 0.7836
+Processing image: ['395']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['395']_output.png
+Resizing ['395']_output.png ((1040, 176, 3)) to match 395.png ((1025, 165, 3))
+PSNR is 28.6999 and SSIM is 0.8500
+Processing image: ['396']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['396']_output.png
+Resizing ['396']_output.png ((1040, 176, 3)) to match 396.png ((1025, 165, 3))
+PSNR is 28.9620 and SSIM is 0.8393
+Processing image: ['397']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['397']_output.png
+Resizing ['397']_output.png ((1040, 176, 3)) to match 397.png ((1025, 165, 3))
+PSNR is 28.8222 and SSIM is 0.8223
+Processing image: ['398']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['398']_output.png
+Resizing ['398']_output.png ((1040, 176, 3)) to match 398.png ((1025, 165, 3))
+PSNR is 25.0549 and SSIM is 0.7890
+Processing image: ['399']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['399']_output.png
+Resizing ['399']_output.png ((1040, 176, 3)) to match 399.png ((1025, 165, 3))
+PSNR is 29.1188 and SSIM is 0.8306
+Processing image: ['40']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['40']_output.png
+Resizing ['40']_output.png ((1040, 176, 3)) to match 40.png ((1025, 165, 3))
+PSNR is 26.3957 and SSIM is 0.8066
+Processing image: ['400']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['400']_output.png
+Resizing ['400']_output.png ((1040, 176, 3)) to match 400.png ((1025, 165, 3))
+PSNR is 28.0927 and SSIM is 0.8087
+Processing image: ['401']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['401']_output.png
+Resizing ['401']_output.png ((1040, 176, 3)) to match 401.png ((1025, 165, 3))
+PSNR is 29.4472 and SSIM is 0.8306
+Processing image: ['402']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['402']_output.png
+Resizing ['402']_output.png ((1040, 176, 3)) to match 402.png ((1025, 165, 3))
+PSNR is 26.5633 and SSIM is 0.8150
+Processing image: ['403']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['403']_output.png
+Resizing ['403']_output.png ((1040, 176, 3)) to match 403.png ((1025, 165, 3))
+PSNR is 29.2874 and SSIM is 0.8543
+Processing image: ['404']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['404']_output.png
+Resizing ['404']_output.png ((1040, 176, 3)) to match 404.png ((1025, 165, 3))
+PSNR is 29.0043 and SSIM is 0.8568
+Processing image: ['405']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['405']_output.png
+Resizing ['405']_output.png ((1040, 176, 3)) to match 405.png ((1025, 165, 3))
+PSNR is 28.1073 and SSIM is 0.8127
+Processing image: ['406']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['406']_output.png
+Resizing ['406']_output.png ((1040, 176, 3)) to match 406.png ((1025, 165, 3))
+PSNR is 27.1032 and SSIM is 0.8022
+Processing image: ['407']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['407']_output.png
+Resizing ['407']_output.png ((1040, 176, 3)) to match 407.png ((1025, 165, 3))
+PSNR is 26.1380 and SSIM is 0.7875
+Processing image: ['408']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['408']_output.png
+Resizing ['408']_output.png ((1040, 176, 3)) to match 408.png ((1025, 165, 3))
+PSNR is 28.5738 and SSIM is 0.8327
+Processing image: ['409']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['409']_output.png
+Resizing ['409']_output.png ((1040, 176, 3)) to match 409.png ((1025, 165, 3))
+PSNR is 28.5331 and SSIM is 0.8307
+Processing image: ['41']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['41']_output.png
+Resizing ['41']_output.png ((1040, 176, 3)) to match 41.png ((1025, 165, 3))
+PSNR is 25.9117 and SSIM is 0.7750
+Processing image: ['410']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['410']_output.png
+Resizing ['410']_output.png ((1040, 176, 3)) to match 410.png ((1025, 165, 3))
+PSNR is 28.5620 and SSIM is 0.7601
+Processing image: ['411']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['411']_output.png
+Resizing ['411']_output.png ((1040, 176, 3)) to match 411.png ((1025, 165, 3))
+PSNR is 28.9178 and SSIM is 0.8271
+Processing image: ['412']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['412']_output.png
+Resizing ['412']_output.png ((1040, 176, 3)) to match 412.png ((1025, 165, 3))
+PSNR is 26.4346 and SSIM is 0.7923
+Processing image: ['413']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['413']_output.png
+Resizing ['413']_output.png ((1040, 176, 3)) to match 413.png ((1025, 165, 3))
+PSNR is 25.8689 and SSIM is 0.7241
+Processing image: ['414']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['414']_output.png
+Resizing ['414']_output.png ((1040, 176, 3)) to match 414.png ((1025, 165, 3))
+PSNR is 27.3187 and SSIM is 0.7151
+Processing image: ['415']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['415']_output.png
+Resizing ['415']_output.png ((1040, 176, 3)) to match 415.png ((1025, 165, 3))
+PSNR is 27.9383 and SSIM is 0.7218
+Processing image: ['416']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['416']_output.png
+Resizing ['416']_output.png ((1040, 176, 3)) to match 416.png ((1025, 165, 3))
+PSNR is 28.8796 and SSIM is 0.7270
+Processing image: ['417']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['417']_output.png
+Resizing ['417']_output.png ((1040, 176, 3)) to match 417.png ((1025, 165, 3))
+PSNR is 27.3270 and SSIM is 0.6745
+Processing image: ['418']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['418']_output.png
+Resizing ['418']_output.png ((1040, 176, 3)) to match 418.png ((1025, 165, 3))
+PSNR is 26.7429 and SSIM is 0.6816
+Processing image: ['419']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['419']_output.png
+Resizing ['419']_output.png ((1040, 176, 3)) to match 419.png ((1025, 165, 3))
+PSNR is 29.8366 and SSIM is 0.7690
+Processing image: ['42']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['42']_output.png
+Resizing ['42']_output.png ((1040, 176, 3)) to match 42.png ((1025, 165, 3))
+PSNR is 26.2796 and SSIM is 0.7938
+Processing image: ['420']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['420']_output.png
+Resizing ['420']_output.png ((1040, 176, 3)) to match 420.png ((1025, 165, 3))
+PSNR is 26.9732 and SSIM is 0.6904
+Processing image: ['421']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['421']_output.png
+Resizing ['421']_output.png ((1040, 176, 3)) to match 421.png ((1025, 165, 3))
+PSNR is 27.3836 and SSIM is 0.5324
+Processing image: ['422']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['422']_output.png
+Resizing ['422']_output.png ((1040, 176, 3)) to match 422.png ((1025, 165, 3))
+PSNR is 23.3394 and SSIM is 0.5278
+Processing image: ['423']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['423']_output.png
+Resizing ['423']_output.png ((1040, 176, 3)) to match 423.png ((1025, 165, 3))
+PSNR is 16.3536 and SSIM is 0.5137
+Processing image: ['424']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['424']_output.png
+Resizing ['424']_output.png ((1040, 176, 3)) to match 424.png ((1025, 165, 3))
+PSNR is 26.7711 and SSIM is 0.8193
+Processing image: ['425']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['425']_output.png
+Resizing ['425']_output.png ((1040, 176, 3)) to match 425.png ((1025, 165, 3))
+PSNR is 25.7668 and SSIM is 0.8010
+Processing image: ['426']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['426']_output.png
+Resizing ['426']_output.png ((1040, 176, 3)) to match 426.png ((1025, 165, 3))
+PSNR is 28.1909 and SSIM is 0.8134
+Processing image: ['427']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['427']_output.png
+Resizing ['427']_output.png ((1040, 176, 3)) to match 427.png ((1025, 165, 3))
+PSNR is 27.1114 and SSIM is 0.7985
+Processing image: ['428']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['428']_output.png
+Resizing ['428']_output.png ((1040, 176, 3)) to match 428.png ((1025, 165, 3))
+PSNR is 26.6368 and SSIM is 0.7951
+Processing image: ['429']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['429']_output.png
+Resizing ['429']_output.png ((1040, 176, 3)) to match 429.png ((1025, 165, 3))
+PSNR is 26.1009 and SSIM is 0.7867
+Processing image: ['43']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['43']_output.png
+Resizing ['43']_output.png ((1040, 176, 3)) to match 43.png ((1025, 165, 3))
+PSNR is 26.6948 and SSIM is 0.8157
+Processing image: ['430']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['430']_output.png
+Resizing ['430']_output.png ((1040, 176, 3)) to match 430.png ((1025, 165, 3))
+PSNR is 27.9140 and SSIM is 0.8036
+Processing image: ['431']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['431']_output.png
+Resizing ['431']_output.png ((1040, 176, 3)) to match 431.png ((1025, 165, 3))
+PSNR is 25.3817 and SSIM is 0.8201
+Processing image: ['432']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['432']_output.png
+Resizing ['432']_output.png ((1040, 176, 3)) to match 432.png ((1025, 165, 3))
+PSNR is 26.5619 and SSIM is 0.8133
+Processing image: ['433']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['433']_output.png
+Resizing ['433']_output.png ((1040, 176, 3)) to match 433.png ((1025, 165, 3))
+PSNR is 26.3506 and SSIM is 0.7739
+Processing image: ['434']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['434']_output.png
+Resizing ['434']_output.png ((1040, 176, 3)) to match 434.png ((1025, 165, 3))
+PSNR is 26.3034 and SSIM is 0.7799
+Processing image: ['435']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['435']_output.png
+Resizing ['435']_output.png ((1040, 176, 3)) to match 435.png ((1025, 165, 3))
+PSNR is 25.0675 and SSIM is 0.7542
+Processing image: ['436']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['436']_output.png
+Resizing ['436']_output.png ((1040, 176, 3)) to match 436.png ((1025, 165, 3))
+PSNR is 23.4820 and SSIM is 0.6522
+Processing image: ['437']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['437']_output.png
+Resizing ['437']_output.png ((1040, 176, 3)) to match 437.png ((1025, 165, 3))
+PSNR is 22.5239 and SSIM is 0.4732
+Processing image: ['438']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['438']_output.png
+Resizing ['438']_output.png ((1040, 176, 3)) to match 438.png ((1025, 165, 3))
+PSNR is 19.7262 and SSIM is 0.4086
+Processing image: ['439']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['439']_output.png
+Resizing ['439']_output.png ((1040, 176, 3)) to match 439.png ((1025, 165, 3))
+PSNR is 25.1937 and SSIM is 0.7916
+Processing image: ['44']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['44']_output.png
+Resizing ['44']_output.png ((1040, 176, 3)) to match 44.png ((1025, 165, 3))
+PSNR is 27.1335 and SSIM is 0.8061
+Processing image: ['440']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['440']_output.png
+Resizing ['440']_output.png ((1040, 176, 3)) to match 440.png ((1025, 165, 3))
+PSNR is 24.8222 and SSIM is 0.7518
+Processing image: ['441']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['441']_output.png
+Resizing ['441']_output.png ((1040, 176, 3)) to match 441.png ((1025, 165, 3))
+PSNR is 25.1829 and SSIM is 0.7594
+Processing image: ['442']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['442']_output.png
+Resizing ['442']_output.png ((1040, 176, 3)) to match 442.png ((1025, 165, 3))
+PSNR is 25.7037 and SSIM is 0.7682
+Processing image: ['443']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['443']_output.png
+Resizing ['443']_output.png ((1040, 176, 3)) to match 443.png ((1025, 165, 3))
+PSNR is 26.1110 and SSIM is 0.7822
+Processing image: ['444']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['444']_output.png
+Resizing ['444']_output.png ((1040, 176, 3)) to match 444.png ((1025, 165, 3))
+PSNR is 25.3477 and SSIM is 0.7419
+Processing image: ['445']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['445']_output.png
+Resizing ['445']_output.png ((1040, 176, 3)) to match 445.png ((1025, 165, 3))
+PSNR is 25.1921 and SSIM is 0.7653
+Processing image: ['446']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['446']_output.png
+Resizing ['446']_output.png ((1040, 176, 3)) to match 446.png ((1025, 165, 3))
+PSNR is 26.2473 and SSIM is 0.7674
+Processing image: ['447']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['447']_output.png
+Resizing ['447']_output.png ((1040, 176, 3)) to match 447.png ((1025, 165, 3))
+PSNR is 26.9924 and SSIM is 0.8063
+Processing image: ['448']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['448']_output.png
+Resizing ['448']_output.png ((1040, 176, 3)) to match 448.png ((1025, 165, 3))
+PSNR is 26.9160 and SSIM is 0.8058
+Processing image: ['449']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['449']_output.png
+Resizing ['449']_output.png ((1040, 176, 3)) to match 449.png ((1025, 165, 3))
+PSNR is 27.0042 and SSIM is 0.7788
+Processing image: ['45']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['45']_output.png
+Resizing ['45']_output.png ((1040, 176, 3)) to match 45.png ((1025, 165, 3))
+PSNR is 29.0160 and SSIM is 0.8518
+Processing image: ['450']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['450']_output.png
+Resizing ['450']_output.png ((1040, 176, 3)) to match 450.png ((1025, 165, 3))
+PSNR is 27.4788 and SSIM is 0.7835
+Processing image: ['451']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['451']_output.png
+Resizing ['451']_output.png ((1040, 176, 3)) to match 451.png ((1025, 165, 3))
+PSNR is 29.5750 and SSIM is 0.8613
+Processing image: ['452']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['452']_output.png
+Resizing ['452']_output.png ((1040, 176, 3)) to match 452.png ((1025, 165, 3))
+PSNR is 30.4066 and SSIM is 0.8727
+Processing image: ['453']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['453']_output.png
+Resizing ['453']_output.png ((1040, 176, 3)) to match 453.png ((1025, 165, 3))
+PSNR is 29.2889 and SSIM is 0.8395
+Processing image: ['454']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['454']_output.png
+Resizing ['454']_output.png ((1040, 176, 3)) to match 454.png ((1025, 165, 3))
+PSNR is 27.7455 and SSIM is 0.8391
+Processing image: ['455']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['455']_output.png
+Resizing ['455']_output.png ((1040, 176, 3)) to match 455.png ((1025, 165, 3))
+PSNR is 27.5388 and SSIM is 0.8231
+Processing image: ['456']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['456']_output.png
+Resizing ['456']_output.png ((1040, 176, 3)) to match 456.png ((1025, 165, 3))
+PSNR is 27.8146 and SSIM is 0.8133
+Processing image: ['457']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['457']_output.png
+Resizing ['457']_output.png ((1040, 176, 3)) to match 457.png ((1025, 165, 3))
+PSNR is 26.9901 and SSIM is 0.8151
+Processing image: ['458']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['458']_output.png
+Resizing ['458']_output.png ((1040, 176, 3)) to match 458.png ((1025, 165, 3))
+PSNR is 27.2996 and SSIM is 0.8234
+Processing image: ['459']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['459']_output.png
+Resizing ['459']_output.png ((1040, 176, 3)) to match 459.png ((1025, 165, 3))
+PSNR is 27.3357 and SSIM is 0.8394
+Processing image: ['46']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['46']_output.png
+Resizing ['46']_output.png ((1040, 176, 3)) to match 46.png ((1025, 165, 3))
+PSNR is 24.7099 and SSIM is 0.7809
+Processing image: ['460']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['460']_output.png
+Resizing ['460']_output.png ((1040, 176, 3)) to match 460.png ((1025, 165, 3))
+PSNR is 26.8592 and SSIM is 0.8088
+Processing image: ['461']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['461']_output.png
+Resizing ['461']_output.png ((1040, 176, 3)) to match 461.png ((1025, 165, 3))
+PSNR is 29.1129 and SSIM is 0.8276
+Processing image: ['462']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['462']_output.png
+Resizing ['462']_output.png ((1040, 176, 3)) to match 462.png ((1025, 165, 3))
+PSNR is 26.7045 and SSIM is 0.7565
+Processing image: ['463']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['463']_output.png
+Resizing ['463']_output.png ((1040, 176, 3)) to match 463.png ((1025, 165, 3))
+PSNR is 25.2453 and SSIM is 0.7797
+Processing image: ['464']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['464']_output.png
+Resizing ['464']_output.png ((1040, 176, 3)) to match 464.png ((1025, 165, 3))
+PSNR is 25.7975 and SSIM is 0.7394
+Processing image: ['465']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['465']_output.png
+Resizing ['465']_output.png ((1040, 176, 3)) to match 465.png ((1025, 165, 3))
+PSNR is 26.7844 and SSIM is 0.7789
+Processing image: ['466']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['466']_output.png
+Resizing ['466']_output.png ((1040, 176, 3)) to match 466.png ((1025, 165, 3))
+PSNR is 25.3888 and SSIM is 0.7737
+Processing image: ['467']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['467']_output.png
+Resizing ['467']_output.png ((1040, 176, 3)) to match 467.png ((1025, 165, 3))
+PSNR is 22.9621 and SSIM is 0.6737
+Processing image: ['468']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['468']_output.png
+Resizing ['468']_output.png ((1040, 176, 3)) to match 468.png ((1025, 165, 3))
+PSNR is 25.9143 and SSIM is 0.7442
+Processing image: ['469']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['469']_output.png
+Resizing ['469']_output.png ((1040, 176, 3)) to match 469.png ((1025, 165, 3))
+PSNR is 23.8979 and SSIM is 0.7168
+Processing image: ['47']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['47']_output.png
+Resizing ['47']_output.png ((1040, 176, 3)) to match 47.png ((1025, 165, 3))
+PSNR is 25.7515 and SSIM is 0.7959
+Processing image: ['470']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['470']_output.png
+Resizing ['470']_output.png ((1040, 176, 3)) to match 470.png ((1025, 165, 3))
+PSNR is 25.1865 and SSIM is 0.7329
+Processing image: ['471']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['471']_output.png
+Resizing ['471']_output.png ((1040, 176, 3)) to match 471.png ((1025, 165, 3))
+PSNR is 25.3494 and SSIM is 0.7517
+Processing image: ['472']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['472']_output.png
+Resizing ['472']_output.png ((1040, 176, 3)) to match 472.png ((1025, 165, 3))
+PSNR is 27.0823 and SSIM is 0.7781
+Processing image: ['473']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['473']_output.png
+Resizing ['473']_output.png ((1040, 176, 3)) to match 473.png ((1025, 165, 3))
+PSNR is 26.6786 and SSIM is 0.7585
+Processing image: ['474']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['474']_output.png
+Resizing ['474']_output.png ((1040, 176, 3)) to match 474.png ((1025, 165, 3))
+PSNR is 23.0331 and SSIM is 0.7291
+Processing image: ['475']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['475']_output.png
+Resizing ['475']_output.png ((1040, 176, 3)) to match 475.png ((1025, 165, 3))
+PSNR is 22.1946 and SSIM is 0.7293
+Processing image: ['476']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['476']_output.png
+Resizing ['476']_output.png ((1040, 176, 3)) to match 476.png ((1025, 165, 3))
+PSNR is 21.1048 and SSIM is 0.6592
+Processing image: ['477']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['477']_output.png
+Resizing ['477']_output.png ((1040, 176, 3)) to match 477.png ((1025, 165, 3))
+PSNR is 26.0519 and SSIM is 0.7511
+Processing image: ['478']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['478']_output.png
+Resizing ['478']_output.png ((1040, 176, 3)) to match 478.png ((1025, 165, 3))
+PSNR is 24.7701 and SSIM is 0.7377
+Processing image: ['479']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['479']_output.png
+Resizing ['479']_output.png ((1040, 176, 3)) to match 479.png ((1025, 165, 3))
+PSNR is 21.5160 and SSIM is 0.6248
+Processing image: ['48']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['48']_output.png
+Resizing ['48']_output.png ((1040, 176, 3)) to match 48.png ((1025, 165, 3))
+PSNR is 28.7170 and SSIM is 0.8502
+Processing image: ['480']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['480']_output.png
+Resizing ['480']_output.png ((1040, 176, 3)) to match 480.png ((1025, 165, 3))
+PSNR is 24.2617 and SSIM is 0.7295
+Processing image: ['481']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['481']_output.png
+Resizing ['481']_output.png ((1040, 176, 3)) to match 481.png ((1025, 165, 3))
+PSNR is 25.8522 and SSIM is 0.7538
+Processing image: ['482']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['482']_output.png
+Resizing ['482']_output.png ((1040, 176, 3)) to match 482.png ((1025, 165, 3))
+PSNR is 26.9865 and SSIM is 0.7686
+Processing image: ['483']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['483']_output.png
+Resizing ['483']_output.png ((1040, 176, 3)) to match 483.png ((1025, 165, 3))
+PSNR is 27.3184 and SSIM is 0.7786
+Processing image: ['484']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['484']_output.png
+Resizing ['484']_output.png ((1040, 176, 3)) to match 484.png ((1025, 165, 3))
+PSNR is 27.2668 and SSIM is 0.7913
+Processing image: ['485']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['485']_output.png
+Resizing ['485']_output.png ((1040, 176, 3)) to match 485.png ((1025, 165, 3))
+PSNR is 26.8053 and SSIM is 0.7704
+Processing image: ['486']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['486']_output.png
+Resizing ['486']_output.png ((1040, 176, 3)) to match 486.png ((1025, 165, 3))
+PSNR is 27.1496 and SSIM is 0.7885
+Processing image: ['487']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['487']_output.png
+Resizing ['487']_output.png ((1040, 176, 3)) to match 487.png ((1025, 165, 3))
+PSNR is 24.5569 and SSIM is 0.7266
+Processing image: ['488']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['488']_output.png
+Resizing ['488']_output.png ((1040, 176, 3)) to match 488.png ((1025, 165, 3))
+PSNR is 21.8135 and SSIM is 0.6514
+Processing image: ['489']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['489']_output.png
+Resizing ['489']_output.png ((1040, 176, 3)) to match 489.png ((1025, 165, 3))
+PSNR is 22.8794 and SSIM is 0.6783
+Processing image: ['49']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['49']_output.png
+Resizing ['49']_output.png ((1040, 176, 3)) to match 49.png ((1025, 165, 3))
+PSNR is 27.9117 and SSIM is 0.8330
+Processing image: ['490']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['490']_output.png
+Resizing ['490']_output.png ((1040, 176, 3)) to match 490.png ((1025, 165, 3))
+PSNR is 25.7411 and SSIM is 0.7683
+Processing image: ['491']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['491']_output.png
+Resizing ['491']_output.png ((1040, 176, 3)) to match 491.png ((1025, 165, 3))
+PSNR is 26.0258 and SSIM is 0.7671
+Processing image: ['492']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['492']_output.png
+Resizing ['492']_output.png ((1040, 176, 3)) to match 492.png ((1025, 165, 3))
+PSNR is 27.5851 and SSIM is 0.7443
+Processing image: ['493']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['493']_output.png
+Resizing ['493']_output.png ((1040, 176, 3)) to match 493.png ((1025, 165, 3))
+PSNR is 27.0575 and SSIM is 0.8058
+Processing image: ['494']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['494']_output.png
+Resizing ['494']_output.png ((1040, 176, 3)) to match 494.png ((1025, 165, 3))
+PSNR is 26.4161 and SSIM is 0.7776
+Processing image: ['495']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['495']_output.png
+Resizing ['495']_output.png ((1040, 176, 3)) to match 495.png ((1025, 165, 3))
+PSNR is 26.5581 and SSIM is 0.8012
+Processing image: ['496']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['496']_output.png
+Resizing ['496']_output.png ((1040, 176, 3)) to match 496.png ((1025, 165, 3))
+PSNR is 26.7577 and SSIM is 0.8057
+Processing image: ['497']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['497']_output.png
+Resizing ['497']_output.png ((1040, 176, 3)) to match 497.png ((1025, 165, 3))
+PSNR is 26.5974 and SSIM is 0.7580
+Processing image: ['498']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['498']_output.png
+Resizing ['498']_output.png ((1040, 176, 3)) to match 498.png ((1025, 165, 3))
+PSNR is 29.1547 and SSIM is 0.8221
+Processing image: ['499']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['499']_output.png
+Resizing ['499']_output.png ((1040, 176, 3)) to match 499.png ((1025, 165, 3))
+PSNR is 28.8755 and SSIM is 0.7982
+Processing image: ['50']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['50']_output.png
+Resizing ['50']_output.png ((1040, 176, 3)) to match 50.png ((1025, 165, 3))
+PSNR is 28.1393 and SSIM is 0.8375
+Processing image: ['500']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['500']_output.png
+Resizing ['500']_output.png ((1040, 176, 3)) to match 500.png ((1025, 165, 3))
+PSNR is 28.3905 and SSIM is 0.8045
+Processing image: ['501']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['501']_output.png
+Resizing ['501']_output.png ((1040, 176, 3)) to match 501.png ((1025, 165, 3))
+PSNR is 28.5220 and SSIM is 0.6619
+Processing image: ['502']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['502']_output.png
+Resizing ['502']_output.png ((1040, 176, 3)) to match 502.png ((1025, 165, 3))
+PSNR is 26.8625 and SSIM is 0.4425
+Processing image: ['503']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['503']_output.png
+Resizing ['503']_output.png ((1040, 176, 3)) to match 503.png ((1025, 165, 3))
+PSNR is 17.7508 and SSIM is 0.4263
+Processing image: ['51']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['51']_output.png
+Resizing ['51']_output.png ((1040, 176, 3)) to match 51.png ((1025, 165, 3))
+PSNR is 28.2928 and SSIM is 0.8408
+Processing image: ['52']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['52']_output.png
+Resizing ['52']_output.png ((1040, 176, 3)) to match 52.png ((1025, 165, 3))
+PSNR is 28.3322 and SSIM is 0.8100
+Processing image: ['53']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['53']_output.png
+Resizing ['53']_output.png ((1040, 176, 3)) to match 53.png ((1025, 165, 3))
+PSNR is 26.8823 and SSIM is 0.8144
+Processing image: ['54']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['54']_output.png
+Resizing ['54']_output.png ((1040, 176, 3)) to match 54.png ((1025, 165, 3))
+PSNR is 26.9402 and SSIM is 0.8243
+Processing image: ['55']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['55']_output.png
+Resizing ['55']_output.png ((1040, 176, 3)) to match 55.png ((1025, 165, 3))
+PSNR is 26.9505 and SSIM is 0.8205
+Processing image: ['56']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['56']_output.png
+Resizing ['56']_output.png ((1040, 176, 3)) to match 56.png ((1025, 165, 3))
+PSNR is 25.9621 and SSIM is 0.7849
+Processing image: ['57']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['57']_output.png
+Resizing ['57']_output.png ((1040, 176, 3)) to match 57.png ((1025, 165, 3))
+PSNR is 26.6429 and SSIM is 0.8098
+Processing image: ['58']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['58']_output.png
+Resizing ['58']_output.png ((1040, 176, 3)) to match 58.png ((1025, 165, 3))
+PSNR is 26.3947 and SSIM is 0.7749
+Processing image: ['59']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['59']_output.png
+Resizing ['59']_output.png ((1040, 176, 3)) to match 59.png ((1025, 165, 3))
+PSNR is 26.5545 and SSIM is 0.7943
+Processing image: ['60']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['60']_output.png
+Resizing ['60']_output.png ((1040, 176, 3)) to match 60.png ((1025, 165, 3))
+PSNR is 26.4346 and SSIM is 0.8205
+Processing image: ['61']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['61']_output.png
+Resizing ['61']_output.png ((1040, 176, 3)) to match 61.png ((1025, 165, 3))
+PSNR is 25.7231 and SSIM is 0.7505
+Processing image: ['62']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['62']_output.png
+Resizing ['62']_output.png ((1040, 176, 3)) to match 62.png ((1025, 165, 3))
+PSNR is 26.2856 and SSIM is 0.7989
+Processing image: ['63']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['63']_output.png
+Resizing ['63']_output.png ((1040, 176, 3)) to match 63.png ((1025, 165, 3))
+PSNR is 26.6242 and SSIM is 0.8186
+Processing image: ['64']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['64']_output.png
+Resizing ['64']_output.png ((1040, 176, 3)) to match 64.png ((1025, 165, 3))
+PSNR is 27.6783 and SSIM is 0.8254
+Processing image: ['65']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['65']_output.png
+Resizing ['65']_output.png ((1040, 176, 3)) to match 65.png ((1025, 165, 3))
+PSNR is 25.9331 and SSIM is 0.7867
+Processing image: ['66']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['66']_output.png
+Resizing ['66']_output.png ((1040, 176, 3)) to match 66.png ((1025, 165, 3))
+PSNR is 26.2893 and SSIM is 0.7911
+Processing image: ['67']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['67']_output.png
+Resizing ['67']_output.png ((1040, 176, 3)) to match 67.png ((1025, 165, 3))
+PSNR is 26.5757 and SSIM is 0.7987
+Processing image: ['68']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['68']_output.png
+Resizing ['68']_output.png ((1040, 176, 3)) to match 68.png ((1025, 165, 3))
+PSNR is 27.1391 and SSIM is 0.8086
+Processing image: ['69']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['69']_output.png
+Resizing ['69']_output.png ((1040, 176, 3)) to match 69.png ((1025, 165, 3))
+PSNR is 29.1800 and SSIM is 0.8538
+Processing image: ['70']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['70']_output.png
+Resizing ['70']_output.png ((1040, 176, 3)) to match 70.png ((1025, 165, 3))
+PSNR is 27.3273 and SSIM is 0.8142
+Processing image: ['71']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['71']_output.png
+Resizing ['71']_output.png ((1040, 176, 3)) to match 71.png ((1025, 165, 3))
+PSNR is 26.4400 and SSIM is 0.7992
+Processing image: ['72']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['72']_output.png
+Resizing ['72']_output.png ((1040, 176, 3)) to match 72.png ((1025, 165, 3))
+PSNR is 26.2334 and SSIM is 0.7759
+Processing image: ['73']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['73']_output.png
+Resizing ['73']_output.png ((1040, 176, 3)) to match 73.png ((1025, 165, 3))
+PSNR is 26.1444 and SSIM is 0.6713
+Processing image: ['74']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['74']_output.png
+Resizing ['74']_output.png ((1040, 176, 3)) to match 74.png ((1025, 165, 3))
+PSNR is 25.5726 and SSIM is 0.4109
+Processing image: ['75']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['75']_output.png
+Resizing ['75']_output.png ((1040, 176, 3)) to match 75.png ((1025, 165, 3))
+PSNR is 26.1521 and SSIM is 0.4045
+Processing image: ['76']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['76']_output.png
+Resizing ['76']_output.png ((1040, 176, 3)) to match 76.png ((1025, 165, 3))
+PSNR is 15.3811 and SSIM is 0.4447
+Processing image: ['77']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['77']_output.png
+Resizing ['77']_output.png ((1040, 176, 3)) to match 77.png ((1025, 165, 3))
+PSNR is 26.4729 and SSIM is 0.7988
+Processing image: ['78']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['78']_output.png
+Resizing ['78']_output.png ((1040, 176, 3)) to match 78.png ((1025, 165, 3))
+PSNR is 26.2945 and SSIM is 0.7694
+Processing image: ['79']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['79']_output.png
+Resizing ['79']_output.png ((1040, 176, 3)) to match 79.png ((1025, 165, 3))
+PSNR is 25.9337 and SSIM is 0.7385
+Processing image: ['80']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['80']_output.png
+Resizing ['80']_output.png ((1040, 176, 3)) to match 80.png ((1025, 165, 3))
+PSNR is 28.7181 and SSIM is 0.8523
+Processing image: ['81']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['81']_output.png
+Resizing ['81']_output.png ((1040, 176, 3)) to match 81.png ((1025, 165, 3))
+PSNR is 27.8526 and SSIM is 0.8414
+Processing image: ['82']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['82']_output.png
+Resizing ['82']_output.png ((1040, 176, 3)) to match 82.png ((1025, 165, 3))
+PSNR is 27.5209 and SSIM is 0.7803
+Processing image: ['83']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['83']_output.png
+Resizing ['83']_output.png ((1040, 176, 3)) to match 83.png ((1025, 165, 3))
+PSNR is 26.6729 and SSIM is 0.8020
+Processing image: ['84']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['84']_output.png
+Resizing ['84']_output.png ((1040, 176, 3)) to match 84.png ((1025, 165, 3))
+PSNR is 27.0263 and SSIM is 0.7871
+Processing image: ['85']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['85']_output.png
+Resizing ['85']_output.png ((1040, 176, 3)) to match 85.png ((1025, 165, 3))
+PSNR is 27.2401 and SSIM is 0.7798
+Processing image: ['86']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['86']_output.png
+Resizing ['86']_output.png ((1040, 176, 3)) to match 86.png ((1025, 165, 3))
+PSNR is 27.9540 and SSIM is 0.8182
+Processing image: ['87']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['87']_output.png
+Resizing ['87']_output.png ((1040, 176, 3)) to match 87.png ((1025, 165, 3))
+PSNR is 26.9171 and SSIM is 0.7892
+Processing image: ['88']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['88']_output.png
+Resizing ['88']_output.png ((1040, 176, 3)) to match 88.png ((1025, 165, 3))
+PSNR is 27.7548 and SSIM is 0.8710
+Processing image: ['89']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['89']_output.png
+Resizing ['89']_output.png ((1040, 176, 3)) to match 89.png ((1025, 165, 3))
+PSNR is 26.5332 and SSIM is 0.8289
+Processing image: ['90']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['90']_output.png
+Resizing ['90']_output.png ((1040, 176, 3)) to match 90.png ((1025, 165, 3))
+PSNR is 26.9296 and SSIM is 0.8270
+Processing image: ['91']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['91']_output.png
+Resizing ['91']_output.png ((1040, 176, 3)) to match 91.png ((1025, 165, 3))
+PSNR is 28.5340 and SSIM is 0.8521
+Processing image: ['92']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['92']_output.png
+Resizing ['92']_output.png ((1040, 176, 3)) to match 92.png ((1025, 165, 3))
+PSNR is 25.7853 and SSIM is 0.7824
+Processing image: ['93']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['93']_output.png
+Resizing ['93']_output.png ((1040, 176, 3)) to match 93.png ((1025, 165, 3))
+PSNR is 26.5551 and SSIM is 0.7622
+Processing image: ['94']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['94']_output.png
+Resizing ['94']_output.png ((1040, 176, 3)) to match 94.png ((1025, 165, 3))
+PSNR is 26.6704 and SSIM is 0.7816
+Processing image: ['95']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['95']_output.png
+Resizing ['95']_output.png ((1040, 176, 3)) to match 95.png ((1025, 165, 3))
+PSNR is 26.9010 and SSIM is 0.7953
+Processing image: ['96']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['96']_output.png
+Resizing ['96']_output.png ((1040, 176, 3)) to match 96.png ((1025, 165, 3))
+PSNR is 26.1649 and SSIM is 0.7960
+Processing image: ['97']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['97']_output.png
+Resizing ['97']_output.png ((1040, 176, 3)) to match 97.png ((1025, 165, 3))
+PSNR is 26.0363 and SSIM is 0.7472
+Processing image: ['98']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['98']_output.png
+Resizing ['98']_output.png ((1040, 176, 3)) to match 98.png ((1025, 165, 3))
+PSNR is 26.4751 and SSIM is 0.7905
+Processing image: ['99']_output.png
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/['99']_output.png
+Resizing ['99']_output.png ((1040, 176, 3)) to match 99.png ((1025, 165, 3))
+PSNR is 26.8077 and SSIM is 0.8144
+Testing set, PSNR is 26.7896 and SSIM is 0.7848
+/home/jovyan/pruebas/results/images/MSE_502/Scores/scores/
