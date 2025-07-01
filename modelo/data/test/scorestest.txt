@@ -1,0 +1,6 @@
+input/01.png
+input/02.png
+input/03.png
+input/04.png
+input/05.png
+input/06.png
