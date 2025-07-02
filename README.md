@@ -6,7 +6,7 @@ El entrenamiento del modelo se ha realizado con un modelo de difusión y espectr
 
 ![Espectrogramas de entrada y a su lado los espectrogramas generados](archivos/ejemplos/spec.png)
 
-Para la interfaz, se ha implementado un plugin en Musescore.
+Para la interfaz, se ha implementado un plugin en Musescore, integrando la herramienta en un entorno popular de composición donde los músicos no partan su flujo de trabajo. Todos los detalles de implementación se encuentran en la memoria del TFG.
 
 
 ## Estructura del Proyecto
