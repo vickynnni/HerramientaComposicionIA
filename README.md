@@ -1,6 +1,13 @@
 # HerramientaComposicionIA
 
-Este repositorio contiene todo el código empleado para el desarrollo de mi TFG, una herramienta orientada a funcionar como un asistente que acompaña al músico en el proceso creativo de composición.
+Este repositorio contiene todo el código empleado para el desarrollo de mi TFG, una herramienta orientada a acompañar al músico en el proceso creativo de composición.
+
+El entrenamiento del modelo se ha realizado con un modelo de difusión y espectrogramas. De manera que los datos de entrada son audios que se transforman a espectrogramas y el modelo devuelve espectrogramas más complejos.
+
+![Espectrogramas de entrada y a su lado los espectrogramas generados](archivos/ejemplos/spec.png)
+
+Para la interfaz, se ha implementado un plugin en Musescore.
+
 
 ## Estructura del Proyecto
 
