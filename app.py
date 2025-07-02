@@ -158,19 +158,42 @@ def create_request_API():
             print(f"Ocurrió un error inesperado: {e}")
 
 def get_result_API(job_id):
+    status_url = f'https://api.klang.io/job/{job_id}/status'
+    pdf_url = f'https://api.klang.io/job/{job_id}/pdf'
+    headers = {
+        'kl-api-key': API_KEY,
+        'accept': 'application/json'
+    }
 
-    resp = requests.get(
-    'https://api.klang.io/job/' + job_id + '/pdf',
-    headers={
-                    'accept': 'application/json',
-                    'kl-api-key': API_KEY, 
-                })
+    max_retries = 30
+    retry_delay = 5  # segundos
 
-    print(resp)
-    if resp.status_code == 200:
-        with open('test.pdf', 'wb') as file:
-            file.write(resp.content)
-            print(f"PDF guardado exitosamente como '{'test.pdf'}'")
+    for _ in range(max_retries):
+        status_resp = requests.get(status_url, headers=headers)
+        print(status_resp)
+
+        if status_resp.status_code == 200:
+            status_data = status_resp.json()
+            if status_data.get("status") == "COMPLETED":
+                print("El trabajo ha sido completado. Descargando PDF...")
+                
+                pdf_resp = requests.get(pdf_url, headers={'kl-api-key': API_KEY})
+                if pdf_resp.status_code == 200:
+                    with open('test.pdf', 'wb') as file:
+                        file.write(pdf_resp.content)
+                    print("PDF guardado exitosamente como 'test.pdf'")
+                    return
+                else:
+                    print(f"Error al descargar el PDF: {pdf_resp.status_code}")
+                    return
+            else:
+                print(f"Estado actual: {status_data.get('status')}. Esperando...")
+                time.sleep(retry_delay)
+        else:
+            print(f"Error al consultar el estado: {status_resp.status_code}")
+            break
+
+    print("El trabajo no se completó a tiempo.")
 
 def open_pdf_res():
     pdf_file_path = 'test.pdf'
